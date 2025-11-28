@@ -1,0 +1,63 @@
+Slide 2: Time sharing（时间共享）
+Also called multitasking（多任务处理）, it is a logical extension of multiprogramming（多道程序设计）.
+The CPU executes multiple processes（进程） by frequently switching among them, providing the illusion of concurrent interaction.
+On a multiprocessor（多处理器） system, true concurrency is possible.
+(Page 2)
+Slide 3: Process（进程）
+A process is a program in execution.
+It goes through several states: new, ready, running, waiting, terminated（新建、就绪、运行、等待、终止）.
+Transitions include dispatched, preempted, wait for resource, wait satisfied, admitted, exit.
+(Page 3)
+Slide 4: Processes in memory（内存中的进程）
+A process’s memory layout includes:
+text（代码段）: program code
+data（数据段）: global variables
+heap（堆）: dynamically allocated memory
+stack（栈）: function parameters, return addresses, local variables
+(Page 4)
+Slide 5: Thread（线程）
+A thread（线程） is the basic unit of CPU utilization and represents a flow of control within a process.
+Each thread has: Thread ID（线程ID）, program counter（程序计数器）, register set（寄存器组）, and stack（栈）.
+Threads within the same process share code, data, and OS resources (e.g., open files, signals).
+(Page 5)
+Slide 6: Single-threaded vs. multi-threaded（单线程 vs. 多线程）
+In single-threaded processes, there is one stack and register set.
+In multi-threaded processes, multiple threads share the same code, data, and files, but each has its own stack and registers.
+(Page 6)
+Slides 7–9: Processes vs. threads（进程 vs. 线程）
+Inter-process communication（进程间通信） is explicit and often requires data replication; address spaces（地址空间） are protected.
+Threads communicate conveniently through shared memory（共享内存） and are more space-efficient.
+Context switch（上下文切换） between threads is cheaper.
+Threads are easier for incremental parallelization（渐进式并行化） but harder to debug due to race conditions（竞态条件）.
+Processes are more scalable（可扩展） but require deeper redesign for parallelism.
+(Pages 7–9)
+Slide 10: On-chip multithreading（片上多线程）
+Used to mask cache miss stalls（缓存未命中停顿）.
+When one thread stalls (e.g., waiting for memory), the CPU switches to another thread to keep hardware busy.
+Typically, four hardware threads per core（每核四个硬件线程） are enough to hide latency.
+(Page 10)
+Slide 11: Fine-grained vs. coarse-grained multithreading（细粒度 vs. 粗粒度多线程）
+Fine-grained: switches threads in regular intervals (e.g., every cycle) — round-robin style.
+Coarse-grained: switches only when a thread stalls (e.g., on cache miss).
+(Page 11)
+Slide 12: Five ways of improving CPU performance（提升CPU性能的五种方式）
+Including:
+
+Increase clock speed（时钟频率）
+Add cores（核心）
+Add functional units（功能单元）
+Lengthen pipeline（流水线）
+Use on-chip multithreading（片上多线程）
+Note: multithreading gives disproportional performance gain vs. chip area cost.
+(Page 12)
+Slide 13: Hyperthreading in the Intel Core i7（Intel Core i7 的超线程技术）
+Allows two threads（两个线程） to run simultaneously on one core.
+Shares cache and memory, but also shares other hardware resources → may cause resource contention（资源争用） and reduce throughput.
+Enables true concurrency within a core（核内真正并发）.
+(Page 13)
+Slide 14: Summary（总结）
+A process is a program in execution; threads are lightweight processes sharing code and address space.
+Advantages（优势）: responsiveness（响应性）, better multiprocessor utilization（多处理器利用率）.
+Disadvantages（劣势）: synchronization overhead（同步开销）, programming complexity（编程复杂性）.
+Hardware threads（硬件线程） can hide memory latency; hyperthreading（超线程） boosts performance.
+(Page 14)

@@ -1,0 +1,37 @@
+Slide 1: Introduction to OpenMP（OpenMP简介）
+OpenMP是一个用于共享内存并行编程的开放标准（Open Standard），始于1997年，从Fortran扩展到C/C++。当前规范为6.0（2024年11月）。核心组件包括编译器指令（#pragma omp）、运行时库函数和环境变量。基于分叉-合并执行模型（Fork-Join execution model）：主线程创建线程团队（fork），团队成员并行执行，最后同步回到主线程（join）。优势包括渐进式并行化（Incremental parallelization）和代码可读性；劣势包括可扩展性限制和隐式通信难以理解。使用时需要特殊编译器（如GCC的-fopenmp选项）。
+(Page 5-9)
+
+Slide 2: Loop-level Parallelism（循环级并行）
+通过#pragma omp parallel for指令实现循环迭代的并发执行。数据共享属性（Data sharing attributes）控制变量如何在不同线程间共享：shared（共享变量）、private（私有变量）、firstprivate（初始化为原值的私有变量）、lastprivate（最后迭代值复制回原变量）、reduction（归约操作，如sum/max）。数据依赖（Data dependence）分析至关重要：流依赖（RAW, 写后读）、反依赖（WAR, 读后写）、输出依赖（WAW, 写后写）。调度策略（Scheduling）决定迭代如何分配：static（静态分配，适合均衡负载）、dynamic（动态分配，适合不均衡负载）、guided（先大后小块）、runtime（运行时决定）。示例：矩阵向量乘法`for(i=0;i<n;i++) z[i]=a*x[i]+y`可直接并行化。
+(Page 34-53)
+
+Slide 3: Data Dependence Removal（数据依赖消除）
+数据依赖会阻止循环并行化。消除技术包括：1) 私有化（Privatization）— 为每个线程创建变量私有副本；2) 标量扩展（Scalar expansion）— 将标量变量转为数组；3) 归约操作（Reduction）— 专为累积操作设计，`#pragma omp parallel for reduction(+:sum)`；4) 归纳变量消除（Induction-variable elimination）— 用闭式表达式替代迭代计算；5) 循环偏斜（Loop skewing）— 重构循环改变依赖方向。例如，Fibonacci序列`fib[i]=fib[i-2]+fib[i-1]`原本有流依赖，但可通过数学公式重写为可并行形式。移除依赖时必须权衡计算与内存开销。
+(Page 63-75)
+
+Slide 4: SPMD-style Parallelism（SPMD风格并行）
+SPMD（Single Program Multiple Data，单程序多数据）模型中，所有线程执行相同代码但处理不同数据。使用`#pragma omp parallel`创建线程团队，通过`omp_get_thread_num()`获取线程ID进行工作分配。工作分配方式：1) 域分解（Domain decomposition）— 按线程ID划分数据域；2) for构造 — 并行循环；3) single构造 — 仅由一个线程执行的代码。`threadprivate`指令使变量在多个并行区域中对每个线程保持私有状态，`copyin`子句可将主线程值复制到所有线程。示例：图像处理中，每个线程处理图像的不同区域。
+(Page 91-106)
+
+Slide 5: Synchronization（同步）
+同步防止竞争条件（Race condition）和数据竞争（Data race）。两种同步类型：1) 互斥同步（Mutual exclusion）— 确保独占访问共享资源；2) 事件同步（Event synchronization）— 线程间信号传递。OpenMP同步机制：1) critical构造 — 临界区，一次只允许一个线程执行；2) atomic构造 — 对单个内存位置的高效原子操作；3) 运行时锁（omp_lock_t）— 更灵活的锁机制；4) barrier构造 — 等待所有线程到达同步点。注意：critical构造有隐式屏障，atomic操作通常比critical更高效，但适用场景有限。例如，查找最大值需使用reduction或critical避免数据竞争。
+(Page 120-156)
+
+Slide 6: Tasking（任务并行）
+任务并行（Tasking）将工作分解为任务放入任务池，由线程动态获取执行。`#pragma omp task`创建任务，任务可以生成子任务。任务同步：1) taskwait — 等待直接子任务完成；2) taskgroup — 等待所有后代任务完成。任务依赖（Task dependencies）通过`depend(in/out/inout:var)`指定执行顺序，解决数据依赖。任务数据共享规则：默认情况下，共享上下文中的shared变量保持共享，其他变量为firstprivate。示例：并行快速排序，每个分区创建新任务。任务属性：untied（允许任何线程恢复挂起任务）、if（条件创建任务）、final（防止进一步子任务创建）。
+(Page 158-175)
+
+Slide 7: Task Optimization（任务优化）
+任务粒度（Task granularity）是关键：任务太小导致高开销，太大导致负载不均衡。优化技术：1) 条件任务创建 — `#pragma omp task if(size>THRESHOLD)`仅当工作量足够时创建新任务；2) final子句 — `#pragma omp task final(size<=THRESHOLD)`在满足条件时阻止子任务创建，减少条件判断开销；3) 任务依赖优化 — 合理设置depend子句平衡并行性与依赖约束。注意：任务调度点（Task scheduling points）包括任务生成后、任务结束前、屏障处和taskyield指令处。性能提示：避免在深层递归中创建过细粒度任务，递归算法在底部几层通常应顺序执行。
+(Page 185-190)
+
+Slide 8: Summary and Best Practices（总结与最佳实践）
+1) 循环级并行：适合规则循环，注意数据依赖和调度策略
+2) SPMD风格：适合大代码区域，结合工作分配和数据共享
+3) 任务并行：适合不规则计算和递归算法，注意任务粒度
+4) 同步原则：最小化临界区大小，优先使用atomic而非critical，避免死锁
+5) 性能优化：平衡并行开销与加速比，考虑缓存局部性
+6) 调试技巧：使用OMP_NUM_THREADS控制线程数，逐步增加并行区域
+最佳实践：先确保算法正确，再并行化；先数据局部性优化，再线程并行化；测量性能而非猜测瓶颈。OpenMP提供增量式并行化路径：从循环并行到任务并行，逐步提高程序并行度。
+(Page 198, 90, 119, 157)
