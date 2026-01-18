@@ -1,0 +1,35 @@
+1. 功能性需求 (FR) —— 关键词
+这类词通常描述动作、流程或可见的交互。
+
+... können / ermöglicht: 表示用户“能够”做什么。
+
+... speichern / löschen / ändern: 数据的增删改查。
+
+... anzeigen / ausgeben: 系统向用户展示信息（如 24/25 年题目的 "anzeigen"）。
+
+... berechnen: 系统内部的计算逻辑。
+
+... exportieren / importieren: 数据的导入导出（如 24/25 年题目的 "exportierbar"）。
+
+... suchen / finden: 搜索功能。
+
+Automatisch: 描述系统的自动化行为（如 24/25 年题目的 "automatisch angezeigt"）。
+
+2. 非功能性需求 (NFR) —— 关键词
+这类词通常描述限制、标准、质量或性能参数。
+
+... einhalten / erfüllen: 必须“遵守”或“满足”某种规范或标准。
+
+Standard / Richtlinien: 提到特定的技术标准（如 24/25 年题目的 "Verschlüsselungsstandard"）。
+
+Verfügbarkeit / Zuverlässigkeit: 系统的“可用性”或“可靠性”。
+
+Sicherheit / Datenschutz: 涉及“安全性”或“数据保护”（如 GDPR/DSGVO）。
+
+Reaktionszeit / Antwortzeit: 响应时间，通常带有数字（如 "innerhalb von 2 Sekunden"）。
+
+Gleichzeitig: 描述并发处理能力（如 "1000 Benutzer gleichzeitig"）。
+
+Benutzerfreundlich: 描述界面是否易用（Usability）。
+
+Verschlüsselung: 提到“加密”通常属于安全性约束。
