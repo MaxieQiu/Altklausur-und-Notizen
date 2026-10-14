@@ -53,6 +53,17 @@
 - 历史记录：`ws/TdF/handoff/sessions/`
 - 最近工作：已整理第一课、课程公告、官方模拟卷和 SoSe 2025 考试回忆；下一步随课堂读取新讲义。
 
+### PFM
+
+- 课程：`Physik für den Maschinenbau`
+- 目录：`ws/pfm/`
+- 最新状态：`ws/pfm/handoff/CURRENT.md`
+- 历史记录：`ws/pfm/handoff/sessions/`
+- 当前资料：已读取 `vl/Kapitel 00.pdf`、`vl/Kapitel 01_1_2.pdf`、2022 正式 Nachklausur 和 WiSe 2024/25 回忆卷；`Physik single coice fragen.pdf` 尚未系统读取。
+- 已确认：WiSe 2026/27，Prof. Dr. Thorsten Kröll；考试暂定 2027-03-09 09:30–11:30，以 TUCaN 为准；通过线 50%，习题可在通过后改善成绩。
+- 考试结论：两份试卷的电容器、E/B 场、电磁感应、干涉/衍射、透镜和光电效应高度重复；难点是广度与时间压力，单题数学一般。
+- 当前进度：完成课程初始化、第一节知识课和初步试卷比较，尚未进行无提示测验；下一步读取选择题资料并建立固定题型模板。
+
 ### 其他已有课程
 
 以下目录已有资料，但尚未建立课程独立 handoff。首次对这些课程开展实质性工作或执行“收工”时，应在对应课程目录中创建 `handoff/CURRENT.md` 和 `handoff/sessions/`：
