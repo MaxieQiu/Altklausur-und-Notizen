@@ -17,7 +17,8 @@
 
 ## 跨课程用户偏好
 
-- 考题和专业术语使用德语，解释与推理使用中文。
+- 题目、提问和模拟考试现场表述使用德语；解题思路、概念解释、推理与纠错使用中文。
+- 重要考试术语首次出现使用“德语（中文）”双语形式，后续以德语为主；该规则适用于所有课程。
 - 新题型需要完整讲通；已学题型不提前提示，一次检查一步。
 - 只有无提示独立完成的内容才算掌握。
 - 重视实际得分、资料匹配和个人易错点，不追求无差别覆盖整本讲义。
@@ -26,6 +27,17 @@
 - 每门课程的对话进度和交接状态必须存入该课程自己的文件夹，不能因切换课程而覆盖上一门课程。
 
 ## 课程索引
+
+### TT
+
+- 课程：`Technische Thermodynamik`
+- 目录：`ws/tt/`
+- 最新状态：`ws/tt/handoff/CURRENT.md`
+- 历史记录：`ws/tt/handoff/sessions/`
+- 当前资料：保留 2015_F-2024_H 共 20 份试卷，已完整读取 `vl/TTD1_V1_2026.pdf`。
+- 已确认：考试三大题结构长期稳定；新卷主要增加流程复杂度，核心仍为 1./2. Hauptsatz、理想气体、真实工质/两相区和 Exergie。
+- 当前进度：完成 Vorlesung 1 的 System、Systemgrenze、Zustand、Prozess、Zustandsgröße 与 Prozessgröße；基础概念为“引导可做”。
+- 下一步：下次回到 TT 时先复测 `geschlossen/offen`、`starr`、`adiabatisch` 和 Masse/Wärme/Arbeit，再进入尚未加入的 Vorlesung 2。
 
 ### TM3
 
