@@ -61,4 +61,13 @@
 
 1. TT 下次继续时，先用一道综合判断题检查 `geschlossen/offen`、`starr`、`adiabatisch` 以及 Masse/Wärme/Arbeit 是否穿过系统边界。
 2. 用户当前要切换至下一门课程；在用户指定课程后，读取对应课程的 handoff 和最近 session。
-3. `Vorlesung 2` 尚未加入资料；加入后从 `Zustandsgrößen und Prozessgrößen` 继续。
+3. `Vorlesung 2` 已归档；下次 TT 先复测上述基础，再从系统分类和 `Zustandsgrößen und Prozessgrößen` 继续。
+
+## 2026-10-16 Vorlesung 2 归档
+
+- 新增 `vl/TTD1_V2_2026.pdf`（34 页），从 Downloads 复制并经 SHA256 校验，原件保留。
+- 已提取全篇正文、视觉核对第 6 页目录；公式文本提取较差，正式讲解公式前须视觉核对相关页。尚未完整逐页视觉核验或开展第二讲教学。
+- 内容：V1 回顾、系统分类、Stoff/Phase、intensive/extensive/spezifische/molare Zustandsgrößen、状态方程与偏导/全微分、状态量路径无关性、机械/热平衡、Nullter Hauptsatz 和温标。末页仅预告 V3 的第一定律。
+- 用户确认当前提供的 PPT 基本对应第一周已开课内容；本轮按难到易巩固，先 TM3，再回 TT。第二讲掌握状态为未学。
+
+本次收尾记录：`handoff/sessions/2026-10-16-2306-第二讲归档与复习安排.md`。
