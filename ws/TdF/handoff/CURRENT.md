@@ -1,6 +1,6 @@
 # TdF 当前交接
 
-更新日期：2026-10-13
+更新日期：2026-10-21
 
 ## 课程定位
 
@@ -98,3 +98,35 @@
 本次只读取交接并核对学习入口，未开展本课程教学或训练；掌握状态、报名与考试信息均无新增确认。Moodle打不开，恢复后获取本学期新资料，沿既有下一步继续。
 
 最新记录：`handoff/sessions/2026-10-19-2053-计划复核未开展教学.md`。
+
+## 2026-10-21 最新状态：本周七份讲义阅读
+
+本节为当前优先入口；上文相冲突的“尚未取得/读取”及下一步安排为历史状态，以本节为准。
+
+- 1.4（12页）：制造工艺对强度、组织、尺寸精度IT和表面粗糙度Rz的影响，设计与工艺匹配。
+- 1.5（37页）：Nachhaltigkeit三维度、生命周期/LCA、一次能源与CO2当量、回收、成本分类及不同制造路线经济性；案例数据属于讲义情境，不据此宣称最新统计事实。
+- 2.1/2.2/2.3（13/7/21页）：企业物料/能源/信息流，Linien-/Sparten-/Matrixorganisation，工厂规划阶段、车间/流水/单元布局、Sankey-Diagramm。
+- 3 Urformen（6页）与3.1.1 Gießen（20页）：从无定形物质建立内聚力，铸造流程、模型/铸型/型芯、一次性与永久型、熔炼炉及工艺选择。
+- 本次新增资料主要是知识讲义，未列作业作为考试准入的明确要求；既有企业实践和Quiz未被公告明确列为强制。
+
+### 资料与实际学习状态
+
+- `vl/1.4 Einführung in die Fertigungstechnik - Zusammenhang zwischen Fertigungsverfahren und Produkteigenschaften.pdf`（12页）。
+- `vl/1.5 Nachhaltigkeit.pdf`（37页）。
+- `vl/2.1 Fabrikbetrieb - Was ist ein Betrieb.pdf`（13页）。
+- `vl/2.2 Fabrikbetrieb - Betriebsorganisation.pdf`（7页）。
+- `vl/2.3 Fabrikbetrieb - Fabrikplanung.pdf`（21页）。
+- `vl/3 Urformen - Einführung.pdf`（6页）。
+- `vl/3.1.1 Urformen - Gießen - Verfahrensablauf.pdf`（20页）。
+
+七份讲义共116页，助手完成正文阅读与部分图表抽查；用户本批内容未开始学习，无新增独立作答证据。
+
+长期阅读索引：`notes/2026-10-21-本周讲义阅读索引.md`。
+
+三天计划按课程分组，每组两门：第一组 PFM → TT；第二组 TM3 → TdF；第三组 MM1 → SRT。用户明确因 Physik 有待交作业而优先 PFM。2026-10-21 因 Moodle 再次无法打开而收工，三组学习均未开始；恢复后从第一组继续，不自动按日历跳至下一组。
+
+### 下一步与风险
+
+位于第二组TM3之后，按上述七份讲义讲解；区分助手读过与用户学过，不重复只做导论分类，不把整批标为已掌握。
+
+本次会话记录：`handoff/sessions/2026-10-21-1801-本周七份讲义阅读.md`。
