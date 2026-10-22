@@ -1,6 +1,6 @@
 # Technische Thermodynamik 当前交接
 
-更新日期：2026-10-21
+更新日期：2026-10-22
 
 ## 课程与考试定位
 
@@ -102,3 +102,14 @@ V3仅助手阅读与关键平衡公式视觉抽查；用户仍为V1/V2第一轮�
 位于第一组PFM之后。先短测Celsius/Kelvin和Wärme/Arbeit区别，再学习V3第一定律与边界判断；不用重新讲完整V2。
 
 本次会话记录：`handoff/sessions/2026-10-21-1801-V3阅读与三天学习计划.md`。
+
+
+## 2026-10-22 最新入口：V3第一定律与质量平衡
+
+今天按新要求选最快推进的两门，安排 TT V3→TdF；实际仅开展 TT。第一定律、能量输入取正、体积变化功、总能量及简化、质量平衡已作初步讲解。给公式后答对200 J、500 J、300 J和6 kg；Expansion功号曾错，静止条件曾误读，经纠正后答对压缩功正、恒速动能不变。尚非稳定独立掌握；ṁ和稳态尚无作答证据。
+
+关键文件：本课程 CURRENT、10-21 session、V3阅读索引、V1/V2易错点笔记；新增长期笔记 notes/V3-第一定律与质量平衡.md。本次未重新读取PDF正文或视觉核验公式。
+
+下一步：从尚未回答的题继续：Ein Behälter hat einen Zulauf von 3 kg/s und einen Ablauf von 2 kg/s. Nimmt die gespeicherte Masse zu, nimmt sie ab oder bleibt sie konstant? 附 dm/dt=Σṁ_ein−Σṁ_aus，不先给答案。之后复测功符号与温标，按V3核对剩余内容；物质携能仅概念介绍、Nutzarbeit未教，不能写成V3全部完成。
+
+最新记录：handoff/sessions/2026-10-22-2019-V3第一定律与质量平衡.md。

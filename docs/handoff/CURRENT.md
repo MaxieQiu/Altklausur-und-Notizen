@@ -1,6 +1,6 @@
 # 项目交接索引
 
-更新日期：2026-10-21
+更新日期：2026-10-22
 
 ## 使用方式
 
@@ -171,3 +171,16 @@
 - SRT：`ws/srt/handoff/CURRENT.md`；本次记录 `ws/srt/handoff/sessions/2026-10-21-1801-本学期公告讲义与题集阅读.md`；阅读索引 `ws/srt/notes/2026-10-21-本周讲义阅读索引.md`。
 - GdD：`ws/gdd/handoff/CURRENT.md`；本次记录 `ws/gdd/handoff/sessions/2026-10-21-1801-必需考核要求复核.md`（仅复核既有必需任务）。
 - WK3：`ws/wk3/handoff/CURRENT.md`；本次记录 `ws/wk3/handoff/sessions/2026-10-21-1801-实验与考试准入复核.md`（仅复核既有必需任务）。
+
+## 2026-10-22 最新安排与入口（优先于10-21分组）
+
+用户改为先挑现有讲义中未学、容易且能快速推进的内容，今天安排TT V3→TdF；实际仅TT开展教学。原三组不再作为下一次自动执行顺序；Physik待交作业仍保留，未取得题目或核实截止、未提交。估时仅针对第一轮教学，不代表稳定掌握。
+
+- TT：第一定律、功符号、总能量简化与质量平衡初步教学；给公式可完成简单应用。功符号、静止条件曾错，尚需复测；ṁ/稳态题未答，V3未全部完成。最新状态 ws/tt/handoff/CURRENT.md；笔记 ws/tt/notes/V3-第一定律与质量平衡.md；session 2026-10-22-2019-V3第一定律与质量平衡.md。
+- TdF：列为TT之后的第二门，新七份讲义尚未教学；最新状态 ws/TdF/handoff/CURRENT.md；session 2026-10-22-2019-两门快学安排未开课.md。
+- MM1：复核19日事项：选组10-19 10:00开放、10-30 23:59截止，19日HÜ1介绍Live Script；沿用既有公告，未确认已报名。最新状态 ws/mm1/handoff/CURRENT.md；session 2026-10-22-2019-19日选组事项复核.md。
+- PFM：仅比较资料范围，教学进度不变；作业仍待处理。最新状态 ws/pfm/handoff/CURRENT.md；session 2026-10-22-2019-学习顺序调整与作业待办.md。
+- SRT：仅比较资料范围，无新教学；最新状态 ws/srt/handoff/CURRENT.md；session 2026-10-22-2019-学习范围比较未教学.md。
+- WK3：仅复核现有状态，无选组或实验完成证据；保留原选组待办。最新状态 ws/wk3/handoff/CURRENT.md；session 2026-10-22-2019-候选范围与实验待办复核.md。
+
+上述sessions均位于对应课程自己的handoff/sessions/目录；未涉及课程状态不变。下次先项目索引→TT CURRENT→V3笔记，从流入3 kg/s、流出2 kg/s的质量积累判断题继续，不预先给答案。
