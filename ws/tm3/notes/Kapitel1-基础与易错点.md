@@ -69,3 +69,7 @@ $$t(v)=t_0+\int_{v_0}^v\frac{1}{a(\bar v)}\,d\bar v,\qquad x(v)=x_0+\int_{v_0}^v
 - 加速度分量：-0.5pi²、-pi、-2 m/s²；合加速度约 6.18 m/s²。
 - z(t)=1.2t-t²，phi(t)=pi*t-pi*t²（代入时 t 以秒计）；0.5 s 时 h=0.35 m、phi=pi/4 rad。该时间段竖直与角速度均未反向，所以位移也等于对应路程/转过角度。
 - 实际作答证据：用户判断 r 不变，径向代入正确，第一次积分正确；第二次积分出错后由助手纠正，其余多数机械计算由助手完成。
+
+## 2026-10-29 V1-1新增结论
+
+WS26/27的Downloads/TM3_Uebung_1.pdf第7页V1-1(a–d)已引导讲解。沿坡x、等高线y、补充法线z；beta从y量，初速度分量(v0 sin beta,v0 cos beta)。离杆后a=(−g sin alpha,0)，N抵消法向mg cos alpha。r0=0因起点为O。P=(b,l)与vx(T)=0给T=sqrt(2b/(g sin alpha))，v0²=2bg sin alpha+l²g sin alpha/(2b)，tan beta=2b/l。坡角改变、几何不变时v0*/v0=sqrt(sin alpha*/sin alpha)，beta不变。用户能判断vx终值0、勾股合成及替换坡角；其余多数由助手解释计算，不记独立整题掌握。用户明确代算也不能省略关键代入/约分步骤。详见当日session，第二章原断点未改变。

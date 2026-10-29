@@ -60,3 +60,10 @@
 ## 继续入口
 
 收工停在第126页：已确认地板向上、座椅瞬时不动时相对速度非零。下次接第127–129页谐波底座激励、振幅比/隔振，再第131页起主动座椅及后续提升系统。不要从液压或完整第二章重讲。PID、海绵类比、阻尼类型主要为第一轮理解，未做独立综合题。第一章补偿秤反馈量、相位等旧待测继续保留。
+
+## 2026-10-29 新增：第127–140页
+
+- 被动座椅正弦稳态：z_f=zhat_f sin(Omega t)，z=zhat sin(Omega t-alpha)，振幅比=sqrt(k²+(d Omega)²)/sqrt((k-m Omega²)²+(d Omega)²)。适用于线性、有阻尼且初始暂态衰减后的模型（无阻尼共振除外）；频率比eta=Omega/sqrt(k/m)是横轴，振幅比是纵轴，二者不同。eta>sqrt(2)振幅比<1；阻尼压低共振峰但削弱高频隔振。框图合力/m→加速度→积分速度→积分位移，需初始条件。未实际搭建。
+- 主动座椅：m z_ddot=−k(z−zf)−d(z_dot−zf_dot)+BlI；L I_dot+RI+k_ind(z_dot−zf_dot)=Ua。向上为正，正电流产生向上执行器力。L I_dot是电流变化对应的电感电压；k_ind相对速度是运动感应电压。即使两端固定仍存在电感，I不能瞬间跳变。同速时运动感应项0，不代表I或力0；恒Ua不代表恒I。1/L后输出I_dot，再积分得I。理想保持z=0需BlI=−kzf−d zf_dot，实际受电压、电流、行程与响应约束；控制设计留Kapitel6。
+- 提升系统：phi_M=i phi_T，收绳长(r/i)phi_M，绳伸长Delta l=(r/i)phi_M−z，F=k Delta l+d Delta l_dot；假设绳张紧、无打滑、固定半径和理想传动。m_R z_ddot=F−m_Rg；Theta_red phi_M_ddot=M_M−(r/i)F，Theta_red=Theta_M+Theta_T/i²。负载独立运动，不重复加进电机等效惯量；重力此处保留。用户正确解释匀速时F=mg。
+- 作答证据、待复测与来源见当日session和CURRENT；第141–144尚未教学；收工已归档V2到vl，Downloads原件保留。第134评价原页留白，教学补充不冒充官方答案。

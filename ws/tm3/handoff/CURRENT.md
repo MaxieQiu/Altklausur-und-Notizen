@@ -149,3 +149,17 @@
 安排在第二组，先TM3后TdF。先简短复测积分幂次和phi/phi_dot，再进入Kapitel2；使用用户给定公式表及原图，不因尚未展开补充推导而延后应用学习。
 
 本次会话记录：`handoff/sessions/2026-10-21-1801-第二章资料阅读与计划.md`。
+
+## 2026-10-29 Übung 1 V1-1完成引导教学，暂停转TT
+
+- 使用Downloads/TM3_Uebung_1.pdf（20页，WS26/27），第7页第一道带图题V1-1斜面高尔夫球；非旧WS25/26解答版。尚未复制归档。相关图/公式页与末尾结果已读取，原题第7页已视觉核对展示。
+- V1-1(a–d)已分步讲解并由助手代算。x沿上坡、y沿等高线；补充z垂直斜面，不能默认竖直。beta从+y量起，v0x=v0 sin beta、v0y=v0 cos beta；起点O给r(0)=0，不是因题目未给而默认0。击球之后球杆不再作用，重力下坡分量决定a_x=−g sin alpha，a_y=0；法向支撑力抵消mg cos alpha，不把加速度当作力。用户最初两个加速度都判正，后经原图及生成侧视分解图理解，非独立完成。
+- (b) v=(v0 sin beta−g sin alpha t, v0 cos beta)，r=(v0 sin beta t−g sin alpha t²/2, v0 cos beta t)。用户要求重新讲解并澄清初值与分量。
+- (c) P=(b,l)，水平切线给vx(T)=0。用户自行正确判断vx为0、初速度两分量平方和开根号；助手整理T=sqrt(2b/(g sin alpha))，v0=sqrt(2bg sin alpha+l²g sin alpha/(2b))，tan beta=2b/l。用户指出运算省略过多；以后虽代算仍保留关键代入、约分与合成步骤，不直接跳最终式。
+- (d) 用户正确提出替换alpha为alpha*，助手整理v0*/v0=sqrt(sin alpha*/sin alpha)，beta不变；条件b/l不变且通常0<alpha,alpha*<pi/2。
+- 该题为给公式、解释及代算后的学习，不是独立整题掌握。第二章原断点仍是2.6第45页起补特殊情况/应用，未因第一章练习推进。
+- 最新session：handoff/sessions/2026-10-29-1144-V1-1斜面高尔夫球暂停.md。用户准备回TT；本次非收工，无提交推送。
+
+## 2026-10-29 收工最终入口
+
+今日V1-1(a–d)为引导教学完成，非独立整题掌握；第二章2.6第45页原断点保留。本学期20页Übung1已新增归档ue/TM3_Uebung_1.pdf，与Downloads SHA256一致，旧解答版保留。图示优先原图；代算保留关键步骤。记录handoff/sessions/2026-10-29-1255-V1-1练习收工.md；暂停记录“未归档”现已更新。用户最终回TT后收工，授权指定origin/main安全普通提交推送。
