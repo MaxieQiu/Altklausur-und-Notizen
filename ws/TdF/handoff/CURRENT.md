@@ -163,3 +163,8 @@
 仅盘点，无新教学，下次仍Urformen/Gießen。3份无关未跟踪PDF保留不提交。
 
 详情、作答/更正/文件及下一步：`handoff/sessions/2026-11-01-1530-本周状态盘点未新增教学.md`。
+
+
+## 2026-11-01 考试资料补充及更正
+
+上述“3份无关PDF”表述错误，用户确认均为TdF考试资料并要求推送。本次将Musterklausur TdF1 PtU.pdf、WiSe 18_19 Gedächtnisprotokoll TdF.pdf、unser Gedächtnisprotokoll WiSe 22_23.pdf纳入版本控制；此前“保留不提交”安排被本条取代。仅核页数和可读性，未系统分析或新教学。记录：`handoff/sessions/2026-11-01-1536-考试PDF补充归档与更正.md`。
