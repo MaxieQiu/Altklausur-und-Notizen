@@ -255,3 +255,13 @@ TT已推进V4/V5主要第一轮讲解与助手代表应用，V5新增vl归档；
 - TT：V4/V5主要内容与代表应用第一轮；V5归档，长期笔记notes/V4-V5-功焓与第一律应用.md。下一步取得V6实际讲义再接状态方程/热容；功号/稳态复测、V3核对及GUe01 3(c)保留。入口ws/tt/handoff/CURRENT.md，session ws/tt/handoff/sessions/2026-10-29-1255-V4V5第一律应用收工.md。
 - 跨课偏好：机械计算代算，保留关键代入和约分；从一般式按实际条件删零项。讲解覆盖与掌握分开，未读预告后实际讲义不计教学。其他课程未新增进度。
 - 本次只提交确认的三门课资料、笔记和交接，截图/临时图片排除；用户授权普通推送指定origin/main，无强推，结果见最终报告。
+
+
+## 2026-11-01 收工最新入口
+
+- PFM：Übungsblatt3 Hausaufgaben3.4/3.5完成，用户确认提交，本周作业放下；讲义缺项保留。入口ws/pfm/handoff/CURRENT.md。
+- TT：GUe01 3(c)完成，VUe01/GUe01全部题已讨论，非独立掌握；VL旧缺项与V6待取得保持。入口ws/tt/handoff/CURRENT.md。
+- MM1：用户确认跟上课堂、暂无作业；本机未装MATLAB/Simulink，待实际电脑题再处理。入口ws/mm1/handoff/CURRENT.md。
+- SRT：1.1、1.2所有小问引导教学完成，指定9题余7题，下一题1.3；第一周旧缺项、第二周未教保持。入口ws/srt/handoff/CURRENT.md；记录ws/srt/handoff/sessions/2026-11-01-1530-复数与Taylor线性化1.1至1.2.md。
+- TM3/TdF仅盘点未教学，各自CURRENT与本次session保存原入口。
+- 上交答案今后桌面、不入GitHub，只保留题号/公式/代入/结果，用Q1、r^2、10^-7；本次答案已交后按要求删除。教学公式条件仍完整提供、用户保留解题参与，角度默认含π弧度。跨课记录docs/handoff/sessions/2026-11-01-1530-跨课盘点与答案保存偏好.md。
