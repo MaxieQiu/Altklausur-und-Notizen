@@ -298,3 +298,9 @@ TdF本轮11份讲义/2回忆已归档；30份PDF无完全重复，互补版本�
 - TdF：本轮资料/全部旧题重点地图及Anki去重归档完成，未新教学；仍Urformen/Gießen流程。状态ws/TdF/handoff/CURRENT.md；完整session 2026-11-04-1337-资料归档与Anki去重暂停.md，确认2026-11-04-1338-TdF收工确认.md。内容ZIP非APKG、无个人学习记录；原APKG仍Downloads。
 - 各session位于课程自己的handoff/sessions；三课覆盖与独立掌握分开，旧缺项保留。第一定律先边界/长式删项、Q+L优先左侧、物性补未知；题目原图、公式符号/条件及关键代入完整。当前资料重点≠已学≠整门全部范围。
 - 用户明确“收工”授权安全提交普通推送指定origin/main；仅三课本次资料/笔记/交接，临时tmp、个人调度、原APKG排除，无强推。最终SHA/结果见报告。其他课程入口不变。
+
+## 2026-11-05 收工入口
+
+- MM1：第3章3.2第16页起继续轴与支承；旧二阶方程根型、Lagrange与矩阵特征值缺项保留。听懂不等于独立掌握。 状态：ws/mm1/handoff/CURRENT.md。记录：ws/mm1/handoff/sessions/2026-11-05-1230-MM1第三章与考试资料.md。
+- TM3：练习从V2-3(d)继续；讲义从2.7加速度继续，用Ergänzung 3讲Coriolis。Kapitel 3仅定位目录，未教。 状态：ws/tm3/handoff/CURRENT.md。记录：ws/tm3/handoff/sessions/2026-11-05-1230-TM3瞬心与第二次练习.md。
+- TT：从V7第16页4.3.5 Polytrope Zustandsänderung继续，第17页公式表对照仍待；练习VUe02 Aufgabe1(d)保持暂停，旧缺项保留。 状态：ws/tt/handoff/CURRENT.md。记录：ws/tt/handoff/sessions/2026-11-05-1230-TT V7至等熵过程.md。
