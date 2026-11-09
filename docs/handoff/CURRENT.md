@@ -304,3 +304,15 @@ TdF本轮11份讲义/2回忆已归档；30份PDF无完全重复，互补版本�
 - MM1：第3章3.2第16页起继续轴与支承；旧二阶方程根型、Lagrange与矩阵特征值缺项保留。听懂不等于独立掌握。 状态：ws/mm1/handoff/CURRENT.md。记录：ws/mm1/handoff/sessions/2026-11-05-1230-MM1第三章与考试资料.md。
 - TM3：练习从V2-3(d)继续；讲义从2.7加速度继续，用Ergänzung 3讲Coriolis。Kapitel 3仅定位目录，未教。 状态：ws/tm3/handoff/CURRENT.md。记录：ws/tm3/handoff/sessions/2026-11-05-1230-TM3瞬心与第二次练习.md。
 - TT：从V7第16页4.3.5 Polytrope Zustandsänderung继续，第17页公式表对照仍待；练习VUe02 Aufgabe1(d)保持暂停，旧缺项保留。 状态：ws/tt/handoff/CURRENT.md。记录：ws/tt/handoff/sessions/2026-11-05-1230-TT V7至等熵过程.md。
+
+## 2026-11-09 暂停入口
+
+- MM1：HU2进行至2.3(c)左右位移方向待答，见ws/mm1/handoff/CURRENT.md及课程session。
+- TdF：3.2.4烧结与Anki部分教学，校准问题待答，四份新PDF已归档，见ws/TdF/handoff/CURRENT.md及课程session。
+- 用户暂停归档，未执行收工提交或推送。其他课程入口不变。
+
+## 2026-11-09 收工状态
+
+MM1从HU2 2.3(c)继续，TdF从3.2.4 Kalibrieren继续；各自详见课程CURRENT和15:00收工记录。未跟踪tmp含此前临时资料，依项目规则停止相应Git操作，本次尚未提交推送，跨设备前需解决该阻碍。
+
+更正：未跟踪tmp保留并排除，收工继续安全提交及普通推送，结果见最终报告。
