@@ -1,6 +1,14 @@
 # 项目交接索引
 
-更新日期：2026-10-27
+更新日期：2026-11-11
+
+## 学习方式与技能入口（2026-11-11 新增）
+
+- 跨课程学习方法和技能索引统一放在根目录 `skills/README.md`，按 `AGENTS.md` 选择并读取相关技能。
+- Matt Pocock 技能集位于 `skills/mattpocock-skills/`，学习场景可从 `wait-what` 和 `teach` 开始。
+- Jane Street 的 `socratic-tutor` 位于 `skills/agent_skills/`，适合概念提问、复习测验和独立应用检查。
+- 原有全科规则仍以根目录 `AGENTS.md`、通用复习模板及用户最新要求为准，各课程进度保持原入口。
+- 本次项目记录见 [学习技能导入与目录整理](sessions/2026-11-11-1903-学习技能导入与目录整理.md)。换设备后，从本索引进入目标课程的 `handoff/CURRENT.md`，需要学习技能时查根目录 `skills/README.md`。
 
 ## 2026-10-27 收工：当前课程入口（优先于旧安排）
 
