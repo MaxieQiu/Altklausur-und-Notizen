@@ -1,0 +1,63 @@
+PAGE 1
+WiSe21/22
+Gedächtnisprotokoll (TdF)
+• konstruktive Gestaltung von Gusswerkstücken (3 Fehler finden und verbessertes Gussteil 
+einzeichnen)
+• Ober- und Untergrenze des C-Gehalts bei Grauguss im Fe-C-Diagramm einzeichnen
+• 3 Verfahren des thermischen Abtragens nennen
+• V or- und Nachteile des Walzprofilierens und ein alternatives Verfahren mit einem Nachteil 
+nennen
+• 2 V orteile des Laserauftragsschweißens nennen
+• Unterteilung des Lichtbogenschmelzschweißens nennen
+• Unterteilung der Beschichtungsarten nennen
+• Gussgefüge in einer Form einzeichnen und beschriften
+• Gussgefüge kurz erklären
+• Galvanisieren erklären
+• 2 Eigenschaften nennen, die sich bei der Wärmebehandlung ändern
+• Alle Verschleißmechanismen nennen
+• Hydrodynamische Reibung erkennen
+• Adhäsion erkennen
+• Abrasionserscheinungen nennen
+• Stribeckdiagramm einzeichnen und Hydrodynamische Reibung ebenfalls einzeichnen
+• Bauteil gezeigt und ein passendes Verfahren für jeden Schritt wählen (3 Schritte)
+• Welchen Kennwert verbessert Schleifen?
+• Bandschleifen einzeichnen
+• englisches Wort für Abstreck-Gleitziehen
+• Was passiert, wenn die Niederhaltekraft zu klein ist?
+• Was passiert, wenn die Niederhaltekraft zu groß ist?
+• Druck ausrechnen
+• Ra und Rz benennen
+• Ziehverhältnis beim Weiterzug berechnen
+• 3 V orgänge der Erstarrungsmorphologie aufzählen
+• Welchen Grauguss für hohe Festigkeit und wenig Dämpfung, welches Legierungselement 
+beeinflusst diese Grafitbildung?
+• Tiefziehbild beschriften
+• Wie kann man ein Bauteil mit komplexer Geometrie Gratfrei fertigen, wie heißt das 
+Verfahren und die Gruppe und was ist der Nachteil des Verfahrens und nennen Sie je einen 
+V or- und Nachteil des ursprünglichen Verfahrens 
+• Welches Verfahren aus der Massivumformung kann noch Gleise rundbiegen
+• Zug Druck Umformverfahren genannt, mit 3 verschiedenen Schmiermitteln 
+(unterschiedlicher Reibkoeffizient), welches wählen Sie und warum?
+• Was kostet mehr Kraft V oll- V orwärtskaltfließpressen oder V oll-Rückwärtskaltfließpressen 
+und warum?
+• Sie schmieden ein Bauteil, an welchen Teilen muss nachbearbeitet werden (Skizze war 
+Gesenkschmieden mit Grat, Schmiedkraft von oben und unten), Kreuze setzen an welchen 
+Stellen die Nachbearbeitung stattfinden muss
+• Pressmaschinen nennen und bei der weggebundenen die Kurve für die Geschwindkeit in 
+Abhängigkeit vom Kurbelwinkel einzeichnen
+• Reibschweißen erläutern
+• Welche Kräfte wirken in radialer Richtung beim Kaltfließpressen
+PAGE 2
+• Aufgabe zur V olumenkonstanz rechnen
+• Warum biegt sich etwas zurück nach dem Biegen (Rückfederung) und wie kann man das 
+verhindern
+• 3 Aufgaben von Beschichten
+• Untergruppen des Beschichtens
+• Diagramm zur Durchführbarkeit eines Strangziehprozesses
+• Versagensarten beim Tiefziehen
+• 1 V orteil und 1 Nachteil von Kleben
+• Spanbildung (Bilder beschriften und begünstigende Eigenschaften auftragen)
+• Spannung beim Fließpressen angeben
+• Gegenlauffräsen-Geschwindigkeiten angeben
+• Idealen Reibungskoeffizienten beim Drahtziehen auswählen
+• Diagramm Scherschneiden zäher/spröder Werkstoff

@@ -1,0 +1,818 @@
+PAGE 1
+9. Juni 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+1. Werkstoffverhalten, Grundlagen der UT, Tribologie
+2. Einführung in die Umformtechnik
+3. Verfahrensgrenzen
+4. Walzverfahren
+5. Schmiedeverfahren
+6. Fließpressverfahren
+7. Strangpressverfahren
+8. Umformung mit Wirkmedien
+9. Ziehverfahren
+10. Biegeverfahren
+11. Grundlagen der Umformmaschinen
+PAGE 2
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Charakterisierung von Werkstoffen
+Werkstoff 
+Verallgemeinerbare 
+Kenngrößen
+Phänomenologische 
+Modelle
+Physikalische 
+Phänomene
+Versuchsaufbau
+Metallographie
+mikroskopisch
+makroskopisch
+PAGE 3
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+Charakterisierung von Werkstoffen
+Zugversuch nach DIN 50125 
+• Wichtigstes mechanisches Prüfverfahren
+• Ermittlung der Kennwerte unter einachsiger 
+Belastung bei konstanter Temperatur* und unter 
+konstanter Verformungsgeschwindigkeit*
+• Genormte Probengeometrien: Flachproben und 
+Rundproben
+• Gemessen werden Kraft F und Länge l0
+* Gilt streng genommen nur näherungsweise.
+Schematische Darstellung einer Flachzugprobe
+Schematische Darstellung einer Rundzugprobe
+
+PAGE 4
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Charakterisierung von Werkstoffen im Zugversuch
+Institutseigene Zugprüfmaschine
+• Nennkraft bis 100 kN
+• Hohe Prüfgeschwindigkeit bis 1500 mm/min
+• 8 Modulsteckplätze für zusätzliche Messgeräte
+• Erweiterbarkeit um Heizkammer
+• Einspannung höchstfester Materialien möglich
+• Für Zug- und Druckprüfungen geeignet
+• Für Rund- und Flachproben geeignet
+Quelle: Zwick
+PAGE 5
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Auswertung der Daten aus dem Zugversuch
+000 bsA =
+l
+PAGE 6
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+Auswertung der Daten aus dem Zugversuch
+0A
+F=
+00
+0
+l
+l
+l
+ll =−=
+Spannung Dehnung
+Vorteil: Spannung und Dehnung sind unabhängig von einer speziellen Geometrie!
+000 bsA =
+l
+PAGE 7
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Auswertung der Daten aus dem Zugversuch
+ = E
+Hook`sches 
+Gesetz
+E = Elastizitätsmodul
+Stahl: ~210.000 N/mm²
+Aluminium: ~70.000 N/mm²
+PAGE 8
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+Auswertung der Daten aus dem Zugversuch
+Streckgrenze
+PAGE 9
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Auswertung der Daten aus dem Zugversuch
+Dehngrenze 0,2%
+PAGE 10
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Auswertung der Daten aus dem Zugversuch
+0A
+FR m
+m =
+Gleichmaßdehnung
+Zugfestigkeit
+PAGE 11
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+Auswertung der Daten aus dem Zugversuch
+ %100
+0
+0max −= l
+llA
+ %100
+0
+min0 −= A
+AAZ
+Amin=Bruchfläche
+lmax=Länge bei Bruch
+Bruchdehnung
+Brucheinschnürung
+Bruchdehnung Gesamtdehnung
+PAGE 12
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+Aufbaustufen eines vielkristallinen Metalls
+Korngröße: ca. 30 µm = 310-5m
+[F. Klocke; W. König: Fertigungsverfahren 4 – Umformen. 5., neu bearbeitete Auflage. Springer-Verlag. Berlin, 2006] 
+Gefügebild
+schematischSchnittebeneräumliches Kristallhaufenwerk
+2D-Schnitt
+PAGE 13
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  13
+Aufbaustufen eines vielkristallinen Metalls
+Quelle: http://www.paris.citysam.de
+PAGE 14
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  14
+Aufbaustufen eines vielkristallinen Metalls
+Die 7.300.000 kg Stahl des Eiffelturms werden von 2.500.000 Nieten gehalten
+Quelle: http://www.paris.citysam.de
+PAGE 15
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  15
+Aufnahmen von Korngrenzen eines umgeformten Bauteils
+Aufbaustufen eines vielkristallinen Metalls
+Lichtmikroskop (1000x)
+ Rasterelektronenmikroskop 
+(REM)
+Korngrenzen
+
+PAGE 16
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  16
+Aufbaustufen eines vielkristallinen Metalls
+a  310-10m
+F. Klocke; w. König: Fertigungsverfahren 4 – Umformen. 5., neu bearbeitete Auflage. Springer-Verlag. Berlin, 2006 
+Kristallgitter
+kfz krz hdP
+automatische
+Betrachtung
+Schnittebene
+räumliches Kristallhaufenwerk
+PAGE 17
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  17
+Punktförmige Gitterfehler 
+Gitterfehler in Realkristallen
+Zwischengitteratom Leerstelle
+Einlagerungsatom
+Substitutionsatom 
+Punktförmige (nulldimensionale) Gitterfehler
+Einlagerungs- oder Substitutionsatome
+PAGE 18
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  18
+Linienförmige Gitterfehler 
+Gitterfehler in Realkristallen
+Linienförmige (eindimensionale) Gitterfehler
+Versetzungen
+Kugelmodell eines 
+Idealkristalls
+Kugelmodell mit 
+Stufenversetzung
+Kugelmodell mit 
+Schraubenversetzung
+PAGE 19
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  19
+Flächenhafte Gitterfehler 
+Gitterfehler in Realkristallen
+Flächenhafte (zweidimensionale) Gitterfehler
+Korngrenzen
+Gefügebilder mit Korngrenzen
+Aufnahmeschematisch
+PAGE 20
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  20
+Warum verhalten sich Metalle sowohl elastisch als auch plastisch?
+Aufbaustufen eines vielkristallinen Metalls
+Das Dehnungsverhalten von Metallen basiert auf deren kristallinen 
+Struktur, die eine Verschiebung kleinster Werkstoffschichten ohne 
+Zerstörung der atomaren Bindungen ermöglicht.
+PAGE 21
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  21
+Elastische Deformation am Einkristall
+Elastische und plastische Formänderungen
+Unter Zug:
+F
+Unter Scherung:
+Bei elastischer Verformung nimmt das Volumen in der Regel zu!!
+PAGE 22
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  22
+Plastische Deformation am Einkristall
+Elastische und plastische Formänderungen
+Gleitung:
+ Zwillingsbildung:
+Bei plastischer Verformung bleibt das Volumen konstant!!
+PAGE 23
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  23
+Vergleichende Darstellung zur Gleitung
+Gitterfehler in Realkristallen
+Verschiebung eines Teppichs durch Faltenverschiebung
+Gleitung einer Stufenversetzung
+
+PAGE 24
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  24
+Einfachgleiten und Kaltverfestigung
+Fließbeginn
+Kaltverfestigungs 
+e 
+PAGE 25
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  25
+Fließen
+Ein Werkstoff fließt, wenn durch einen bestimmten Spannungszustand 
+eine bleibende Formänderung erzielt wird.
+Die Fließspannung kf eines Werkstoffs ist die Spannung, die zur 
+Einleitung bzw. zur Aufrechterhaltung einer bleibenden Formänderung im 
+einachsigen Spannungszustand notwendig ist.
+Grundlagen der Umformtechnik
+0A
+F=
+A = mittlere aktuelle Querschnittsfläche                
+im Zugversuch
+A0 = Ausgangsquerschnitt
+A
+F=fk
+PAGE 26
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  26
+Formänderungsgrößen
+Grundlagen der Umformtechnik
+00
+01
+1
+0 0
+0
+l
+Δl
+l
+-ll
+l
+dlε
+l
+dldε
+l
+l
+===
+=
+
+l1
+l0
+Ausgangsform Endform
+l
+Zwischenform
+dl
+F
+Dehnung ε
+Die Dehnung  ist die auf die Ausgangslänge l0 bezogene 
+Längenänderung Δl (bezogene Formänderung ).
+PAGE 27
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  27
+Formänderungsgrößen
+Grundlagen der Umformtechnik
+l1
+l0
+Ausgangsform Endform
+l
+Zwischenform
+dl
+F
+logarithmische Formänderung  
+Die logarithmische Formänderung  bezieht die Längenänderung 
+auf die momentane Länge.
+0
+1
+01 lnlnln
+1
+0
+l
+lll
+l
+dl
+l
+dld
+l
+l
+=−=
+== 
+PAGE 28
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  28
+Spannungs-Dehnungs-Diagramm
+kf (Fließspannung)
+σ (fiktive Spannung)
+σ; kf
+ε; φ
+Rm
+εgl
+Einachsiger
+Spannungs-
+zustand
+Einschnürung
+mehrachsiger
+Spannungszustand
+PAGE 29
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  29
+Fließkurven verschiedener Werkstoffe bei Raumtemperatur
+korrosions-beständiger Stahl 
+Einsatz-/Vergütungsstahl
+Baustahl
+Kupfer
+hochreines Aluminium
+S235JR
+Al 99,5
+Cu-ETP (geglüht)
+C15 
+X8CrNiTi1810
+0         0,2         0,4        0,6        0,8
+Umformgrad φ 
+Fließspannung kf  [N/mm²]
+1000
+800
+600
+400
+200
+0
+PAGE 30
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  30
+Fließkurven bei unterschiedlichenTemperaturen
+Werkstoff Al 99,5
+0     0,2     0,4    0,6    0,8    1,0     1,2
+Umformgrad φ 
+Fließspannung kf  [N/mm²]
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0 
+PAGE 31
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  31
+Fließkurven bei unterschiedlichen Umformgeschwindigkeiten
+Werkstoff: C15
+T = 1100 °C
+0     0,2    0,4    0,6    0,8    1,0    1,2    1,4   1,6    1,8    2,0
+Umformgrad φ 
+Fließspannung kf  [N/mm²]
+300
+250
+200
+150
+100
+PAGE 32
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  32
+Volumenänderung
+Grundlagen der Umformtechnik
+V2 > V1 V3 = V2
+V1
+V2
+V2
+V3
+Elastischer Bereich Plastischer Bereich
+PAGE 33
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  33
+Volumenkonstanz beim Umformen
+Grundlagen der Umformtechnik
+0
+1
+0
+1
+0
+1 lnlnln h
+h;b
+b;l
+l
+hbl === 
+Für eine Rechteckprobe gilt im 
+kartesischen Koordinatensystem:
+b1
+l1l0b0
+h0
+h1
+0
+01
+0
+01
+0
+01
+h
+hhε;b
+bbε;l
+llε hbl
+−=−=−=
+PAGE 34
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  34
+Volumenkonstanz beim Umformen
+Grundlagen der Umformtechnik
+b1
+l1l0b0
+000111 hblhbl =
+01lnlnlnln
+0
+1
+0
+1
+0
+1 ==++ h
+h
+b
+b
+l
+l
+ ==++ 00hbl i
+1
+0
+1
+0
+1
+0
+1 = h
+h
+b
+b
+l
+l
+bzw.
+h0
+h1
+PAGE 35
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  35
+Additivität der Formänderung
+Grundlagen der Umformtechnik
+Die Gesamtformänderung für einen aus mehreren Stufen bestehenden Umformprozess 
+ergibt sich aus der Summe der Formänderungen der einzelnen Stufen:  I = ges
+h1
+h3
+h0
+h2
+Stufe 1 Stufe 2 Stufe 3
+PAGE 36
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  36
+Beispiel zur Additivität der Formänderung
+Grundlagen der Umformtechnik
+h0 = 10 cm
+Stufe 1 Stufe 2
+h1 =  12 cm
+h2 =  14,4 cm
+F
+2110
+0
+02
+20 44,010
+104,14
+−−− +=−=−=  h
+hh
+2,010
+1012
+0
+01
+10 =−=−=−
+h
+hh
+2,012
+124,14
+1
+12
+21 =−=−=−
+h
+hh
+182,010
+12lnln
+0
+1
+10 ===−
+h
+h
+182,012
+4,14lnln
+1
+2
+21 ===−
+h
+h
+2110
+0
+2
+20 364,010
+4,14lnln −−− +=== =  h
+h
+PAGE 37
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  37
+Umformkraft und Umformarbeit: Beispiel Stauchen
+Grundlagen der Umformtechnik
+==
+==
+
+  
+fm
+s
+f
+s
+f
+s
+idid
+kV
+s
+dskV
+dskAdsFW
+f
+id
+fid
+kA
+F
+kAF
+=
+=
+
+ideelle Umformkraft ideelle Umformarbeit
+PAGE 38
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  38
+Tribologie in der Umformtechnik
+Tribologie
+Tribologie ist die Wissenschaft von Reibung, Schmierung und Verschleiß zwischen zwei Reibpartnern!
+Die Lehre der Tribologie beschäftigt sich zum einen mit den Ursachen und Erscheinungsformen der 
+Reibung, zum anderen aber auch mit den Folgen und den Möglichkeiten zur Beeinflussung der Reibung!
+PAGE 39
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  39
+Elemente eines tribologischen Systems: Beispiel Tiefziehen
+Tribologie in der Umformtechnik
+Ziehring
+(Grundkörper 1)
+Niederhalter
+(Grundkörper 2)
+Stempel
+(Grundkörper 3)
+(nicht gezeigt)
+Werkstück
+(Gegenkörper)
+Schmierstoff
+(Zwischenstoff)
+PAGE 40
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  40
+Elemente eines Tribosystems
+Tribologie in der Umformtechnik
+Grundkörper
+Zwischenstoff
+Gegenkörper
+Umgebungsmedium
+Belastung
+Werkstück:
+• Werkstoff
+• Mechanische Kenngrößen
+• Geometrische Kenngrößen
+• Oberflächenzustand
+• Beschichtung
+Schmierstoff:
+• Zähigkeit
+• Scherfestigkeit
+• Druckbeständigkeit
+• Temperaturbeständigkeit
+Werkzeug:
+• Werkstoff
+• Mechanische Kenngrößen
+• Geometrische Kenngrößen
+• Oberflächenfeingestalt
+• Beschichtung
+PAGE 41
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  41
+Oberflächenfeingestalt von metallischen Werkstoffen
+Tribologie in der Umformtechnik
+Kenngrößen zur einheitlichen Charakterisierung von Oberflächen erforderlich!
+PAGE 42
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  42
+Tribologie in der Umformtechnik
+Ra = Mittenrauwert
+Arithmetisches Mittel der Profilabweichungen des 
+gefilterten Rauheitsprofils von der mittleren Linie 
+innerhalb der Messstrecke lm.
+𝑹𝒂 = 𝟏
+𝒍𝒎
+ න
+𝒙=𝟎
+𝒙=𝒍𝒎
+𝒚 𝒅𝒙
+Rz  = gemittelte Rauhtiefe
+Arithmetisches Mittel aus den Einzelrautiefen Z1 bis Z5 
+von fünf aneinandergrenzenden Einzelmessstrecken le
+im gefilterten Rauheitsprofil
+𝑹𝒛 = 𝟏
+𝟓 (𝒁𝟏 + 𝒁𝟐 + 𝒁𝟑 + 𝒁𝟒 + 𝒁𝟓)
+[Ceratizit]
+
+PAGE 43
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  43
+Reibzustände bei der Gleitbewegung metallischer Partner
+Tribologie in der Umformtechnik
+
+PAGE 44
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  44
+Hydrodynamische
+Reibung
+Völlige Trennung
+der Reibpartner durch 
+Schmierstoff
+Mischreibung 
+Abstand zwischen 
+Reibpartnern nur örtlich 
+im Bereich der 
+Schmierstoff-
+Moleküldicke
+Grenzkörperreibung
+Abstand zwischen 
+Reibpartnern im Bereich 
+der Moleküldicke des 
+Schmierstoffes
+Reibzustände
+Tribologie in der Umformtechnik
+Festkörperreibung
+Direkter Kontakt der 
+Reibpartner, örtliche 
+hohe Kontaktnormal-
+Spannungen
+
+PAGE 45
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  45
+Tribologie in der Umformtechnik
+Reibung (friction)
+Reibung
+Reibkraft FR
+Coulomb´sches Reibgesetz (1781)
+Widerstand zwischen zwei aufeinander abgleitenden Oberflächen.
+Aufzubringende Kraft, um die Gleitbewegung zwischen zwei 
+aufeinander abgleitenden Flächen aufrechtzuerhalten.
+NR
+NR
+oder
+F F
+σ μ
+μ
+=
+=
+
+NF
+RF
+FN: Normalkraft
+FR: Reibkraft
+µ: Reibkoeffizient
+σN: Normalspannung
+τR: Reibspannung
+PAGE 46
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  46
+Reibzustände im Stribeckdiagramm
+Tribologie in der Umformtechnik
+N
+v
+
+Reibkoeffizient μ
+ = (dynamische) Viskosität
+v = Geschwindigkeit
+σN = Normalspannung
+v
+PAGE 47
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  47
+Viskosität
+Tribologie in der Umformtechnik
+v > 0
+h
+vAF =
+A: Fläche der Platte
+PAGE 48
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  48
+Reibzustände im Stribeckdiagramm
+Tribologie in der Umformtechnik
+N
+v
+
+Reibkoeffizient μ
+ = (dynamische) Viskosität
+v = Geschwindigkeit
+σN = Normalspannung
+Festkörperreibung:
+μ > 0,3
+Grenzreibung:
+μ = 0,1 … 0,3
+Mischreibung:
+μ = 0,03 … 0,1
+Hydrodynamische 
+Reibung:
+μ < 0,05v
+PAGE 49
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  49
+Tribologie in der Umformtechnik
+Verschleiß (wear)
+Verschleiß ist der fortschreitende Materialverlust aus der Oberfläche eines festen Körpers, hervorgerufen 
+durch mechanische Ursachen (d.h. durch Kontakt und Relativbewegung eines Gegenkörpers)! [nach DIN 50320]
+Die Verschleißlehre berücksichtigt neben dem Materialverlust aber auch noch den Werkstoffauftrag, die 
+Werkstoffverlagerung sowie eine Änderung der Werkstoffeigenschaften!
+Verschleiß ist sowohl von den äußeren Belastungen als auch von der Zusammensetzung des 
+tribologischen Systems, den Eigenschaften der tribologischen Elemente und deren Wechselwirkungen 
+abhängig!
+PAGE 50
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  50
+Verschleißmechanismen
+Tribologie in der Umformtechnik
+Adhäsion
+Adhäsion ist die Ausbildung von Grenzflächen-Haftverbindungen 
+zwischen sich berührenden Körpern; bei der Trennung durch die 
+Relativbewegung schert der weichere Werkstoff im Inneren ab!
+Verschleißerscheinungsform
+Fresser, Löcher, Kuppen, Schuppen, Materialübertrag
+
+PAGE 51
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  51
+Beispiel einer Kaltaufschweißung bei der Blechumformung
+Tribologie in der Umformtechnik
+Aufschweißung eines Blechwerkstoffs auf einer 
+glatten Werkzeugoberfläche
+PAGE 52
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  52
+Verschleißmechanismen
+Tribologie in der Umformtechnik
+Abrasion
+Abrasion ist der Materialabtrag durch ritzende Beanspruchung, indem 
+Rauheitsspitzen des härteren Reibkörpers in den weicheren eindringen 
+und durch die Relativbewegung Werkstoffpartikel rauslösen!
+Verschleißerscheinungsform
+Kratzer, Riefen, Mulden, Wellen
+
+PAGE 53
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  53
+Beispiel eines abrasiven Verschleißbildes in der Blechumformung
+Tribologie in der Umformtechnik
+
+PAGE 54
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  54
+Beispiel eines abrasiven Verschleißbildes in der Massivumformung
+Tribologie in der Umformtechnik
+Werkzeugmatrizen zum Verjüngen von Stabmaterial bei 
+der Herstellung von Sechskantschrauben M16 (1. Stufe)
+
+PAGE 55
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  55
+Verschleißmechanismen
+Tribologie in der Umformtechnik
+Oberflächenzerrütung
+Oberflächenzerrütung ist die Materialermüdung im Oberflächenbereich 
+durch tribologische Wechselbeanspruchung, die zu Materialtrennungen 
+und Rissbildung führt!
+Verschleißerscheinungsform
+Risse, Grübchen
+
+PAGE 56
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  56
+Beispiel einer Oberflächenzerrüttung
+Tribologie in der Umformtechnik
+Quelle: Metallurgical Technologies, Inc.
+PAGE 57
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  57
+Verschleißmechanismen
+Tribologie in der Umformtechnik
+Tribochemische Reaktion
+Tribochemische Reaktion ist die chemische Reaktion von Grundkörper, 
+Gegenkörper und Zwischenmedium durch die tribologische 
+Beanspruchung, wodurch neue Reaktionsprodukte entstehen!
+Verschleißerscheinungsform
+Reaktionsprodukte (Schichten, Partikel)
+
+PAGE 58
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  58
+Schmierstoffe in der Übersicht
+Flüssigschmierstoffe Pastöse 
+Schmierstoffe Festschmierstoffe
+Öl
+• nativ
+• mineral.
+• synthetisch
+Mischungen
+fest 
+in flüssig
+dispergiert
+flüssig
+in flüssig 
+Suspension
+• wassermischbar
+• nicht wassermischbar
+• Wasser-in-Öl
+• Öl-in-Wasser
+• Fette
+• Kreide
+• Talk
+• Glimmer
+• Gelierte Öle
+• Seifen
+• MoS2
+• Graphit
+• Salze
+• Gläser
+Emulsion 
+(eine Phase dispergiert)
+• salzhaltige
+  Schmierstoffe
+Lösung 
+PAGE 59
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  59
+Ende „Umformen – Werkstoffverhalten, Grundlagen der UT, Tribologie“

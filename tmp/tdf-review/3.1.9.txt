@@ -1,0 +1,213 @@
+PAGE 1
+9. Juni 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Verfahrensablauf
+2. Erstarrung und Kristallisation
+3. Konstruktive Gestaltung von Gussteilen
+4. Gusswerkstoffe
+5. Eisenwerkstoffe
+6. Gießen in verlorene Formen aus Dauermodellen
+7. Gießen in verlorene Formen aus verlorenen Modellen
+8. Gießen in Dauerformen
+9. Halbzeugguss
+PAGE 2
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Einteilung der Gießverfahren
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+(continous casting)
+Handformen
+Maschinenformen
+Maskenformen
+Keramikformen
+Feingießen
+Vollformgießen
+Schwerkraft-
+kokillenguss
+Niederdruckguss
+Druckguss
+Schleuderguss
+PAGE 3
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+Stranggussverfahren
+Halbzeugguss
+
+PAGE 4
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Erforderliche Energie pro kg Gussmaterial
+Q1kg =
+𝑄+𝐻
+𝑚  = 
+267 kJ
+kg+54kJ
+kg ⋅𝑚
+𝑚  
+➔ Q1kg = −321
+𝑘𝐽
+𝑘𝑔 = −90
+𝑊ℎ
+𝑘𝑔
+Erforderliche Kühlleistung
+𝑷 = 𝑄1𝑘𝑔 ⋅ ሶ𝑚 = −90
+𝑊ℎ
+𝑘𝑔 ⋅ 17.000
+𝑘𝑔
+ℎ = 𝟏𝟓𝟑𝟎 𝒌𝑾 
+Beispielrechnung „Erforderliche Kokillenleistung“
+Halbzeugguss
+Primärkühlung im Kokillenbereich
+➔ entscheidende Bedeutung für die Bildung einer stabilen Randschale
+Kokille
+Kokille
+Eintrittstemperatur 
+T1 = 1530°C
+Schmelzen-Austritt:
+Oberflächentemperatur: 650°C
+∅Gussteil-Temperatur T2: 950°C
+Kokillen-
+länge
+= 2 m
+[Europäisches Patentamt EP 0 054 867 A1]
+Klimaanlage: ca. 2,2 kW
+→ ca. 700 Klimaanlagen! !
+Übertragene Wärmeenergie
+𝑄 = 𝑐 ⋅ 𝑚 ⋅ (𝑇2-𝑇1)
+➔ Q = 0,46
+kJ
+kg∗K ⋅ m ⋅ 950 − 1530 K
+Schmelzenthalpie
+𝐻 = 𝑞𝑠 ⋅ 𝑚𝑓𝑒𝑠𝑡
+➔ H = 270
+kJ
+kg ⋅ 0,2 ⋅ m
+mfest : erstarrte Masse 
+der Randschale 
+(hier 20% der 
+Gesamtmasse m)
+Massendurchsatz
+ሶ𝑚 = 𝜌 ⋅ 𝐴 ⋅ 𝑣𝐺𝑢𝑠𝑠 = 7,87g/cm³ ⋅ 0,144 𝑚2 ⋅ 2,5 𝑚
+𝑚𝑖𝑛
+➔ ሶ 𝑚 = 283,32
+𝑘𝑔
+𝑚𝑖𝑛 = 17.000
+𝑘𝑔
+ℎ
+Informationen zum gegossenen Stahl (0,65%C, 0,27% Si, 0,68% Mn) 
+- Dichte ρ = 7,87g/cm³
+- Strangquerschnitt A = 120 mm x 120 mm
+- Gießgeschwindigkeit vGuss= 2,5 m/min
+- Spezifische Wärmekapazität c = 0,46 
+𝑘𝐽
+𝑘𝑔∗𝐾
+- Spezifische Schmelzwärme qs = 270 
+𝑘𝐽
+𝑘𝑔
+PAGE 5
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Verfahrensablauf
+2. Erstarrung und Kristallisation
+3. Konstruktive Gestaltung von Gussteilen
+4. Gusswerkstoffe
+5. Eisenwerkstoffe
+6. Gießen in verlorene Formen aus Dauermodellen
+7. Gießen in verlorene Formen aus verlorenen Modellen
+8. Gießen in Dauerformen
+9. Halbzeugguss
+PAGE 6
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+Wirtschaftlichkeit der Gießverfahren
+Gießverfahren
+Wirtschaftliche Stückzahl
+Kokillengießen
+Schleudergießen
+Druckgießen
+Stranggießen
+Sandgießen
+Croning-Verfahren
+Wachsausschmelzverfahren
+Vollformgießen
+1 10 10² 10³ 104 105 106
+Modell 
+geschäumt
+Handformen
+Maschinenformen
+Modell 
+gefräst
+PAGE 7
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Beispiel - Abgasturbolader
+[Borg-Warner]
+Pkw-TurboladerFertigungstechnik von Bauteilen 
+eines PKW-Turboladers
+Anforderungen
+Werkstoff wirtschaftliches 
+Gussverfahren
+PAGE 8
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+Beispiel - Abgasturbolader
+Durch Nutzung der Abgasenergie 
+höherer Wirkungsgrad
+Turbine VerdichterPrinzip der 
+Abgasturboaufladung
+[Borg-Warner]
+PAGE 9
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Beispiel - Abgasturbolader
+Verdichter-Gehäuse
+Turbinen-Gehäuse
+Verdichter-Rad
+Turbinen-Rad
+Niedrige thermische Belastung
+Hohe thermische und chemische Belastung
+Lager-Gehäuse
+[Borg-Warner]
+PAGE 10
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Beispiel - Abgasturbolader
+Material: Aluminium
+Herstellung: Druckguss Material: Austenitischer 
+Sphäroguss mit hohem 
+Nickelanteil
+Herstellung: Sandguss Material: Austenitischer 
+Sphäroguss mit hohem 
+Nickelanteil
+Herstellung: Sandguss
+Verdichter-Gehäuse Lager-Gehäuse
+ Turbinen-Gehäuse
+[Borg-Warner]
+PAGE 11
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+Verdichter-Rad Turbinen-Rad
+Material: Aluminium
+Herstellung:
+Niederdruckguss
+Material: Nickellegierung
+Herstellung:
+Wachsausschmelzverfahren
+Beispiel - Abgasturbolader
+[Borg-Warner]
+
+PAGE 12
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+[Europäisches Patentamt EP 0 054 867 A1] 
+[Borg-Warner]  http://www.ststurbo.pl/czyszczenie-turbosprezarki-turbo-warszawa.html, abgerufen 05.10.2023
+   https://www.tgabathuler.ch/Aufladung/Dokumente/823_837.pdf, abgerufen 05.10.2023
+   nicht zu allen Bildern waren Angaben zu finden
+Ende 9. Teil „Urformen - Gießen“

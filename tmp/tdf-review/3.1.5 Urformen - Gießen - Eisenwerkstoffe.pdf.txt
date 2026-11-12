@@ -1,0 +1,398 @@
+PAGE 1
+27. Oktober 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Verfahrensablauf
+2. Erstarrung und Kristallisation
+3. Konstruktive Gestaltung von Gussteilen
+4. Gusswerkstoffe
+5. Eisenwerkstoffe
+6. Gießen in verlorene Formen aus Dauermodellen
+7. Gießen in verlorene Formen aus verlorenen Modellen
+8. Gießen in Dauerformen
+9. Halbzeugguss
+PAGE 2
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Gusswerkstoffe
+(casting materials)
+Eisenwerkstoffe
+(ferrous materials)
+Nichteisenwerkstoffe
+(nonferrous materials)
+Reineisen
+C<0,1%
+(technical pure
+ iron)
+Stahl
+0,1%<C<2%
+(steel)
+Gusseisen
+2%<C<4,5%
+(cast iron)
+Kupfer
+(copper)
+Aluminium
+(aluminum)
+Magnesium,
+(magnesium)
+Gusswerkstoffe
+Sonstige:
+Titan, Zinn,
+Nickel
+(titanium, tin,
+nickel)
+PAGE 3
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+Gusswerkstoffe
+Eisenwerkstoffe
+(ferrous materials)
+Reineisen
+(technical pure iron)
+C<0,1%
+Stahl
+(steel)
+0,1%<C<2%
+Gusseisen
+(cast iron)
+2%<C<4,5%
+Schwarzer 
+Temperguss
+(blackheart)
+Weißer 
+Temperguss
+(whiteheart)
+Grauguss
+ lamellar
+(flake)
+Weißes 
+Gusseisen
+(white cast iron)
+Schalen-
+hartguss
+(chilled cast iron)
+Hartguss
+(white iron)
+Temperguss
+(malleable cast iron)
+Grauguss
+(grey cast iron)
+Grauguss
+ vermicular
+(vermicular)
+Grauguss
+ globular
+(nodular)
+PAGE 4
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Werkstoffbezeichnungen nach DIN-EN-1563
+• Kurznamen bestehen aus bis zu sechs Teilen
+• Oft werden nicht alle belegt
+EN-GJL-600-3CW (alt GGG60)
+(1)  Kennzeichnung als        
+europäische Norm
+(4)  Mindestzugfestigkeit 
+Rm [MPa]
+(6) Zusatzanforderungen: z.B.  
+      W= Schweißeignung
+(2)  GJ: G= Guss, J= Eisen
+(5)  Bruchdehnung A [%] z.B.:
+S= Probe getrennt gegossen
+C= am Gussstück entnommen
+(3)  Graphitstruktur 
+- S = sphärisch, globular
+- L = lamellar
+- N = graphitfrei (Hartguss) 
+- M = Temperguss
+PAGE 5
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Gießtechnische Grundlagen
+Eisen-Kohlenstoff-Diagramm
+PAGE 6
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+Vergleich der Eisenwerkstoffe
+Gusswerkstoffe
+Eisenwerkstoffe
+Reineisen Stahlguss Gusseisen
+Hohe Gießtemperatur 
+T = 1400 °C - 1530 °C
+Gießtemperatur 
+T = 1170 °C - 1350 °C
+Schlechteres Formfüllverhalten Gutes Formfüllverhalten
+Einsatz nur im Kunstschmiede-
+handwerk 
+Geringe Beeinflussung der 
+Eigenschaften durch 
+Wärmebehandlung
+Große Variationsmöglichkeit durch 
+Legierungselemente
+Gute Beeinflussung der Eigenschaften 
+durch Wärmebehandlung
+Schlechte Umformeigenschaften
+• kleiner E-Modul
+• geringe Zähigkeit
+Hohe Dämpfungseigenschaften 
+PAGE 7
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Gusswerkstoffe
+Stahlguss für den Armaturenbau
+PAGE 8
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+Stahlguss für den Energiebereich
+Gusswerkstoffe
+Verdichtergehäuse
+Gasturbinengehäuse
+Dampfturbinengehäuse
+[Voest Alpine]
+Nabe einer Windkraftanlage
+PAGE 9
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Gusswerkstoffe
+Multifunktionswerkzeug Kaplanturbine Presszylinder
+Gewicht 60 g Durchmesser 6,0 m
+Gewicht 55.000 kg
+Gewicht 85.000 kg
+[Frogtool]
+[Voest Alpine 2]
+PAGE 10
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Gusseisen
+(cast iron)
+weißes
+Gusseisen
+(Hartguß)
+(white cast iron)
+Schalen-
+hartguss
+(chilled cast iron)
+Grauguss
+(grey castiron)
+2,5 - 4,5%
+0,3 - 1,5%
+2,5 - 4,5%
+0,3 - 1,5%
+2,5 - 4,0%
+0,8 - 3,0%
+Anteile: C:
+ Si:
+ 
+Werkstoffgruppen des Gusseisens
+Gusswerkstoffe
+PAGE 11
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+Gusswerkstoffe
+Eisenbegleiter im Gusseisen Anzustreben
+Silizium Bildet mit dem Eisen das Eisensilizid (FeSi) und gibt den C als Graphit frei Si <  2,7 %
+Mangan Vermindert die Graphitbildung, erhöht damit die Schwindung Mn < 1%
+Phosphor Fördert die Graphitbildung, macht das Eisen dünnflüssig P < 0,5 %
+Schwefel Vermindert die Graphitbildung, erhöht die Schwindung S < 0,1 %
+Magnesium Fördert die kugelförmige Graphitbildung
+PAGE 12
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+Werkstoffgruppen des Weißen Gusseisens
+Gusswerkstoffe
+Gusseisen
+(cast iron)
+Schwarzer 
+Temperguss
+(blackheart)
+Weißer 
+Temperguss
+(whiteheart)
+Grauguss
+ lamellar
+(flake)
+Weißes 
+Gusseisen
+(white cast iron)
+Schalen-
+hartguss
+(chilled cast iron)
+Hartguss
+(white iron)
+Temperguss
+(malleable 
+cast iron)
+Grauguss
+(grey cast iron)
+Grauguss
+ vermicular
+(vermicular)
+Grauguss
+ globular
+(nodular)
+PAGE 13
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  13
+• Erstarrung zu sprödem Rohguss
+• C gebunden als Fe3C
+• hohe Härte, spröde
+schlag- und stoßempfindlich
+Weißes
+Gusseisen
+Hartguss Temperguss
+• Erstarrung zu sprödem Rohguss
+• durch Wärmebehandlung (Tempern) 
+Umwandlung des weißen Gusseisens 
+durch Karbidzerfall Fe3C → 3 Fe + C
+• Nach Wärmebehandlung: duktil
+dynamisch beanspruchbar
+Werkstoffgruppen des Weißen Gusseisens
+Gusswerkstoffe
+PAGE 14
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  14
+Werkstoffgruppen des Weißen Gusseisens
+Gusswerkstoffe
+Temperrohguss Wärmebehandlung Temperguss
+• graphitfreies Gefüge
+• hart, spröde Tempern
+• Temperkohleknoten im 
+Grundgefüge
+• zäh, duktil
+
+PAGE 15
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  15
+Werkstoffgruppen des Weißen Gusseisens
+Gusswerkstoffe
+Weißer Temperguss
+(GJMW, früher GTW)
+Schwarzer Temperguss
+(GJMB, früher GTS)
+Wärmebehandlung im Kammerofen Wärmebehandlung im Doppelkammerofen 
+• Früher: Einbettung der Gussstücke in 
+ein sauerstoffabgebendes Gestein,
+• Heute: Arbeiten mit entkohlenden 
+Gasgemischen (CO2; CO; H2)
+• Einbettung des Gussstücks in neutrales 
+Einbettungsmittel (Sand)
+• Atmosphäre: neutral, nicht entkohlend
+Vorgang während der Haltezeit:
+Karbidzerfall: Fe3C → 3 Fe + C
+Entkohlung:   CO2  + C → 2 CO
+1. Glühstufe (1. Graphitisierungsstufe):
+Eisenkarbid (Fe3C) zerfällt in:
+  - fein verteilten Kohlenstoff C
+  - Austenit (in Form von g-Mischkristall)
+2. Glühstufe (2. Graphitisierungsstufe):
+verlangsamter Zerfall, Bildung von Ferrit
+PAGE 16
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  16
+Weißes
+Gusseisen
+Hartguss Schwarzer
+Temperguss
+Weißer
+Temperguss
+Werkstoffgruppen des Weißen Gusseisens
+Gusswerkstoffe
+PAGE 17
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  17
+Weißes
+Gusseisen
+• selten Wandstärke > 20mm
+• Serien + Gussserien max. einige kg
+Werkstoffgruppen des Weißen Gusseisens
+Gusswerkstoffe
+Hartguss Temperguss
+Electrical
+Fittings
+Automotive
+Hardware
+PAGE 18
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  18
+Gusseisen
+Weißes
+Gusseisen
+Schalen-
+hartguss Grauguss
+Werkstoffgruppen des Graugusses
+Gusswerkstoffe
+[Kemptener Eisengiesserei 
+Adam Hönig AG]
+[Giesserei-Lexikon]
+Grauguss mit
+Kugelgraphit
+(nodular graphite 
+cast iron)
+Grauguss mit
+Lamellengraphit
+(flake graphite 
+cast iron)
+Grauguss mit
+Vermiculargraphit
+(vermicular graphite 
+cast iron)
+[Carl Zeiss Microscopy GmbH]
+PAGE 19
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  19
+Vergleich der gängigsten Gusseisen
+Gusswerkstoffe
+Temperguss
+(GJM, früher GT)
+Grauguss
+(GJL, früher GG)
+Grauguss m. Kugelgraphit
+(GJS, früher GGG)
++
+• höhere Festigkeit
+• gut zerspanbar
+• gut schweißbar
+• gut härtbar  
+• gut schwingungsdämpfend 
+(ca. 2-3 mal Stahl)
+• stark schwingungsdämpfend 
+(ca. 3-4 mal Stahl)
+• gut zerspanbar
+• hoch verschleißfest
+• geringes Schwindmaß (~ 1%)
+• hohe Korrosionsbeständigkeit
+• höhere Festigkeit
+• gute Korrosionsbeständigkeit
+-
+• höhere Fertigungskosten • geringe Festigkeit
+• Stoßempfindlich
+• hohe Sprödbruchneigung
+• neigt zu Porosität und Lunkern
+• geringe Schwingungs-dämpfung 
+(ca. 1-2 mal Stahl)
+PAGE 20
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  20
+Zugversuch
+Gusswerkstoffe
+
+PAGE 21
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  21
+Vergleich der Werkstoffeigenschaften
+Gusswerkstoffe
+l0l1
+A0
+A1
+F1
+F2
+ 
+Stahl
+GJS
+GJM
+GJL
+
+
+E-Modul: E =    
+Zugfestigkeit Rm
+Streckgrenze Rp
+Bruchdehnung A
+ = F 
+A0 
+Spannung
+ = l1−l0 
+l0
+∙ 100%
+Dehnung
+Spannung 
+PAGE 22
+27. Oktober 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  22
+[Voest Alpine] https://www.voestalpine.com/stahl/Produkte/Giessereiprodukte/Stahlguss-fuer-den-Energiebereich-10-t, abgerufen 05.10.2023
+[Frogtool] https://www.asmc.de/universalwerkzeug-frog-tool, abgerufen 05.10.2023
+[Voest Alpine 2]
+Ende 5. Teil „Urformen – Gießen“

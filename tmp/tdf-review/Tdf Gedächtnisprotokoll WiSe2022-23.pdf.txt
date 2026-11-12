@@ -1,0 +1,52 @@
+PAGE 1
+Tdf I 
+Aufgabe 1: 
+- Vier gegebene Verfahren in Umformverfahren nach Beanspruchungsverfahren einteilen 
+- Definition Gießen 
+- Verlorene Formen aus verlorenen Modellen anhand eines Beispiels ein Verfahren auswählen 
+- Vier Planungsphasen eines Unternehmens nennen 
+- Schaubild zu Modell eines Produktionsbetriebs ausfüllen 
+- Kapitalrendite anhand eines Beispiels anwenden und angeben 
+- Vorteile von Produktionsinseln angeben 
+- Sankey Diagramm zeichnen 
+- Kraft-Weg-Diagramm zu Strangpressen zeichnen und erklären 
+- Stößelkraft berechnen  
+- Diagramm zu Versagensfällen bei Flachenverhältnis und Blocktemperatur beim 
+Strangpressen 
+- Arten von Pressen benennen 
+- Bodenreißer/Faltenbildung Diagramm beschriften 
+- Was für einen Einfluss hat ein Schmierstoff auf die Fehlerbildung 
+- Umformen eines Bleches zum Topf und welches Verfahren, inklusive des Biegeverfahrens für 
+die Griffe 
+- Unebenes Werkstück soll geradegemacht werden 
+- Was bringt ein Armierungsring im Gegensatz zu einer dicken Matrize 
+- Welche Spannungen und -richtungen wirken 
+- Vorwärtskaltfließpressverfahren benennen anhand eines Schaubilds 
+- Walzbiegen englisch 
+ 
+TdF II 
+- Abtragende Verfahren nennen 
+- Vier Verfahren von spanen mit geometrisch unbestimmter Schneide nennen 
+- PVD Verfahren nennen 
+- Beschichten aus dem körnigen Zustand – Verfahren nennen 
+- Winkel beim Spanen nennen 
+- Spanarten und eine Eigenschaft, die diese beeinflusst, nennen 
+- Verschleißmechanismen benennen 
+- Schweißverfahren nennen 
+- Drei Schweißfehler benennen 
+- Galvanisieren erklären 
+- Was bringt Glühen 
+- Lötverfahren nach Temperatur 
+- Formel für einfaches Scherschneiden nennen und anwenden 
+- Scherfestigkeit durch Zugfestigkeit berechnen 
+- Halbzeug zu Werkstück -> Verfahren nennen 
+- Modell eines Formteils herstellen, Beispiel nennen 
+- Honen charakteristische Merkmale von Oberflächen +  2 Vorteile nennen 
+- Fügeverbindungen (Kraftverläufe zeichnen) 
+- Drehen Skizzen gegeben und diese zuordnen 
+- Lichtbogenhandschweißen erklären und zeichnen 
+PAGE 2
+- Spitzenloses Schleifen zeichnen (inkl. Geschwindigkeitsvektoren) 
+ 
+ 
+           

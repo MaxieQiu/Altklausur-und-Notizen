@@ -1,0 +1,342 @@
+PAGE 1
+9. Juni 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Sintern
+2. Pulverherstellung
+3. Eigenschaften von Sinterbauteilen
+4. Verfahrensschritte
+5. Klassen von Sinterbauteilen
+3.2 Pulvermetallurgie
+3.3 Additive Fertigung
+PAGE 2
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Pulverherstellung
+physikalisch-chemisch
+Pulverherstellung
+mechanisch
+Reduktion von 
+Oxiden ElektrolyseZerstäuben 
+von Schmelzen
+Zerkleinern in 
+Mühlen
+Reduktions-
+verfahren I
+- Walzenzunder
+Reduktions-
+verfahren II
+- Eisenerz
+Verdüsungs-
+verfahren
+- Druckluft
+- Druckwasser
+-  Inertgas
+PAGE 3
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+Pulverherstellung durch mechanische Zerkleinerung
+Walzenmühle Hammermühle Kugelmühle
+Pulverherstellung
+Aluminium mit dispersen 
+Verunreinigungen
+
+PAGE 4
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Pulverherstellung
+physikalisch-chemisch
+Pulverherstellung
+mechanisch
+Reduktion von 
+Oxiden ElektrolyseZerstäuben von 
+Schmelzen
+Zerkleinern in 
+Mühlen
+Reduktions-
+verfahren I
+- Walzenzunder
+Reduktions-
+verfahren II
+- Eisenerz
+Verdüsungs-
+verfahren
+- Druckluft
+- Druckwasser
+-  Inertgas
+PAGE 5
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Verdüsungsverfahren
+Pulverherstellung
+Verdüsen der Schmelze durch Druckluft 
+(Mannesmann-Verfahren)
+• Verdüsen durch Druckluft
+• Teilweise Oxidation
+• Auffangen in Wasser und Abschrecken
+• Wärmebehandlung (1150 °C)
+• (Reduktion des Eisenoxids)
+• Ergebnis: schwammiges Eisenpulver
+Nickelbasislegierung
+Auffangbehälter
+Gasventil
+Zyklon
+Gas zur Reinigung
+Feinanteil
+[Universidad Rey Juan Carlos ]
+
+PAGE 6
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+Verdüsungsverfahren
+Pulverherstellung
+Verdüsen der Schmelze durch Druckwasser 
+(Mannesmann-Verfahren)
+• Verdüsen durch Druckwasser
+• Teilweise Oxidation
+• Trocknung
+• Wärmebehandlung unter Schutzgas
+Eisenpulver
+[Fraunhofer Institut]
+PAGE 7
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Pulverherstellung
+physikalisch-chemisch
+Pulverherstellung
+mechanisch
+Reduktion von 
+Oxiden ElektrolyseZerstäuben von 
+Schmelzen
+Zerkleinern in 
+Mühlen
+Reduktions-
+verfahren I
+- Walzenzunder
+Reduktions-
+verfahren II
+- Eisenerz
+Verdüsungs-
+verfahren
+- Druckluft
+- Druckwasser
+-  Inertgas
+PAGE 8
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+Reduktionsverfahren I (Pyronverfahren)
+Pulverherstellung
+Ausgangsprodukt
+Walzenzunder (Eisenoxide): Fe2O3; Fe3O4
+Wolframoxid:  WO3
+Molybdänoxid:  MoO3
+Verfahrensablauf
+Mahlen Magnetisches 
+Trennen
+Glühen in 
+oxidischer 
+Atmosphäre
+Reduktion 
+im Durchlaufofen
+Mahlen 
+und
+ Sieben
+(Entfernen von
+Verunreinigungen) 
+(Reduktionskuchen) 
+Ergebnis Eigenschaft
+• Reduktionspulver
+• Eisen-Wolfram-Molybdän
+• mikroporös
+• Fülldichte: 2,3...2,5 g/cm³
+• gut zu verdichten
+
+PAGE 9
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Reduktionsverfahren II (Höganäs-Verfahren)
+Pulverherstellung
+Ausgangsprodukt
+Reine Eisenerze
+Verfahrensablauf
+Mahlen
+Thermische 
+Reduktion 
+der Eisenerze
+Mahlen Magnetisches 
+Trennen
+Mahlen 
+und
+ Sieben
+(20-40 h bei 1200 °C) (Reduktionskuchen) 
+Ergebnis
+Reduktionspulver 
+(Schwammeisenpulver)
+[Fraunhofer Institut]
+PAGE 10
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Pulverherstellung
+physikalisch-chemisch
+Pulverherstellung
+mechanisch
+Reduktion von 
+Oxiden ElektrolyseZerstäuben von 
+Schmelzen
+Zerkleinern in 
+Mühlen
+Reduktions-
+verfahren I
+- Walzenzunder
+Reduktions-
+verfahren II
+- Eisenerz
+Verdüsungs-
+verfahren
+- Druckluft
+- Druckwasser
+-  Inertgas
+PAGE 11
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+Pulverherstellung
+Pulverherstellung durch elektrolytische Abscheidung
+Elektrolyt
+KathodeAnode 
+_+ DC
+Cu → Cu2+ + 2e-
+Fe →  Fe2+ + 2e-
+Cu2+ + 2e- → Cu
+Fe2+ + 2e- → Fe
+Kupfer
+[TU Braunschweig]
+PAGE 12
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+Pulverherstellung
+Pulver: Größendefinition nach DIN EN ISO 3252
+Kolloide Pulver Granulat
+Zur Herstellung u.a. von Hartmetall-
+Werkzeugen
+Dient zur Herstellung von Formteilen Dient zur Herstellung von Metallfiltern
+Teilchendurchmesser
+1 mm1 µm
+[Merck KGaA Darmstadt] [www.honnens.de] 
+PAGE 13
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  13
+Vorgänge während des Mischens
+Pulverherstellung
+Diffusion Konvektion Scherung
+[Schatt, Pulvermetallurgie]
+
+PAGE 14
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  14
+Grobkapillarflüssigkeit
+Flüssigkeitsbindungsarten
+Pulverherstellung
+Innere Feuchtigkeit
+Adsorptionsflüssigkeit
+Adhäsionsflüssigkeit
+Zwickelkapillarflüssigkeit
+Zwischenraumkapillar-
+flüssigkeit
+[Schatt, Pulvermetallurgie]
+PAGE 15
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  15
+Legierungstechnik
+Definition Legierung
+Eine Legierung ist ein Gemisch mindestens zweier chemischer Elemente, von 
+denen mindestens eines ein Metall ist. Durch die Legierungselemente werden die 
+Werkstoffeigenschaften (z.B. Härte, Korrosionsbeständigkeit) der „Basismetalle“ 
+auf die gewünschte Weise verändert. 
+(Legierung = Grundmetall + Zusätze)
+• Je nach Anzahl der Komponenten in der Legierung spricht man von einer Zwei-, Drei-, Vier- oder Mehrstofflegierung 
+• In der Pulvermetallurgie können Legierungen auf folgenden Wegen erzeugt werden:
+Gemischtlegieren Anlegieren Fertiglegieren
+Basispulver
+Legierungselement
+Al
+Zn
+PAGE 16
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  16
+Pulver-Legierungstechnik
+Gemischtlegieren Anlegieren Fertiglegieren
+Pulver-
+mischung
+Grundpulver, Legierungspulver 
+(bis 2%), Gleitmittel (0,5% 
+Lithiumstearat)
+Grundpulver, Legierungspulver, 
+Gleitmittel (0,5 % Lithiumstearat)
+Durch Verdüsen hat jedes Pulver-
+korn bereits die Zusammensetzung 
+des legierten Sinterwerkstoffs
+Die Pulvermischung wird geglüht, was 
+zu örtlichen Anlegieren führt.
+Vorteil Gute Pressbarkeit Kürzere Sinterzeit Kurze Sinterzeit
+Nachteil Lange Sinterzeiten und hohe 
+Sintertemperatur
+Leichte Beeinträchtigung der 
+Presseigenschaften Schlechtere Presseigenschaften
+
+PAGE 17
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  17
+Neodym-Eisen-Bor-Magnete
+• Permanentmagnete mit besonders hoher Stärke
+• Vielzahl von Anwendungen
+• Kompakte Elektromotoren mit hohem Wirkungsgrad und hoher Leistungsdichte
+• Windkraftanlagen mit Direktantrieb
+• Elektronik und Sensoren
+• Audio-Anwendungen
+• Magnetresonanztomographen
+• Neodym zählt zu den seltenen Erden – hohe Umweltbelastung beim Abbau!
+[wikipedia]   
+[www.connect.de]  [www.mrt-schiffer.de] [www.wiejelo.de][www.probikeshop.ch]
+PAGE 18
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  18
+Fertigungsablauf
+Neodym-Eisen-Bor-Magnete
+1. Legierungs- und 
+Pulverherstellung
+2. Herstellung des 
+Grünlings
+3. Sintern 4. Magnetisieren
+Erzeugung eines sehr 
+feinkörnigen Pulvers
+Anisotropie im Gefüge 
+durch Magnetfeld beim 
+Pressen des Grünlings
+Beim Sintern wird das 
+Bauteil entmagnetisiert
+Eigentliche 
+Magnetisierung erfolgt 
+als separater 
+Prozessschritt
+Neodym
+Eisen
+Bor
+S
+N
+PAGE 19
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  19
+Einfluss der Korngröße
+(BH)max Br
+H: magnetische Feldstärke
+M: Magnetisierung
+Br: Remanenz (Restmagnetisierung)
+Hc: Koerzitivfeldstärke (Widerstand gegen Umpolen)
+(BH)max: Maximales Energieprodukt (umgewandelte Energie)
+• Zusammenhang zwischen Korngröße und magnetischen Eigenschaften
+• Höchste Koerzitivfeldstärke bei etwa 0.1 µm
+[Coey, Magnetism and Magnetic Materials]
+PAGE 20
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  21
+[Universidad Rey Juan Carlos]  https://www.academia.utp.ac.pa/sites/default/files/docente/541/l3_metalurgia_de_polvos.pdf, abgerufen 28.08.2023 
+   https://www.academia.utp.ac.pa/sites/default/files/docente/541/l3_metalurgia_de_polvos.pdf, abgerufen 06.10.2023
+[Fraunhofer Institut]
+[TU Braunschweig]
+[Merck KGaA Darmstadt]  https://www.printperfection.de/lacke/iriodinlackierung, abgerufen 06.10.2023
+[www.honnens.de] https://www.honnens.de/shop/Aktivkohle-Silcarbon-J-42-500-kg/2500068, abgerufen 06.10.2023
+[Schatt Pulvermetalurgie]  Schatt, W.; Pulvermetallurgie Technologien und Werkstoffe, Springer Berlin, Heidelberg 2007
+[wikipedia]   https://de.m.wikipedia.org/wiki/Datei:Neodymium_magnet_lifting_spheres.jpg, abgerufen 28.08.2023
+[www.probikeshop.ch] https://www.probikeshop.ch/de/ch/matra-i-force-shock-d10-27-5-electric-bike-white/135340.html, abgerufen  
+   28.08.2023
+[www.connect.de] https://www.connect.de/ratgeber/magnetismus-im-lautsprecherbau-1489943.html, abgerufen 28.08.2023
+[www.mrt-schiffer.de] https://www.mrt-schiffer.de/radiologie/mrt/, abgerufen 28.08.2023
+[www.wiejelo.de] https://www.wiejelo.de/automatische-feuerloeschanlagen/windenergie/, abgerufen 28.08.2023
+[Coey, Magnetism and Magnetic Materials] Coey, J., Magnetism and Magnetic Materials, Cambridge University Press, 2010
+  
+Ende 2. Teil „Urformen - Pulvermetallurgie“

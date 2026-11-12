@@ -1,0 +1,340 @@
+PAGE 1
+9. Juni 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Sintern
+2. Pulverherstellung
+3. Eigenschaften von Sinterbauteilen
+4. Verfahrensschritte
+5. Klassen von Sinterbauteilen
+3.2 Pulvermetallurgie
+3.3 Additive Fertigung
+PAGE 2
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Pulvermetallurgische Grundbegriffe
+Dichte Raumerfüllung
+𝜌 = Masse [g]
+Volumen [cm3] Raumfüllung = 
+tats. Dichte
+theor.DIchte ⋅ 100%
+Fülldichte  (2,4 – 3,8 g/cm³ bei Eisen)
+Pressdichte  (6,7 – 7,2 g/cm³ bei Eisen)
+Theor. Dichte (7,85 g/cm³ bei Eisen)
+beim Füllen  (30 – 45 %)
+beim Pressen (70 – 90 %)
+massiver Körper (100 %)
+Pressbarkeit = Dichte 𝜌
+Pressdruck 𝑝
+Füllfaktor = Füllhöhe 
+Fertighöhe
+
+PAGE 3
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+Formgebung
+Pressdichte
+Pressdruck
+Einfluss des Pressdrucks auf die Dichte
+[Klocke, 2015] 
+Pressdruck MN/m² 0 80 200 400 800
+Dichte g/cm³ 2,5 4 5,5 6,5 7,2
+PAGE 4
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Formgebung
+Formpresstechnik
+(sizing)
+Formgebung und Sinterung
+in einem Arbeitsgang
+(shaping and sintering
+in one single operation)
+Einseitiges 
+Pressen
+(single action pressing)
+Isostatisches 
+Pressen
+(isostatic pressing)
+feststehende Matrize schwimmend 
+gelagerte Matrize
+Formgebung und Sinterung
+in getrennten Arbeitsgängen
+(shaping and sintering
+in seperate operations)
+angetriebene Matrize
+Zweiseitiges Pressen
+(koaxial)
+(double action pressing)
+PAGE 5
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Einseitiges Pressen
+Situation: einseitige Verdichtung
+F
+Welches Ergebnis erwarten Sie?
+F F F
+Dichte im oberen Bereich höher gleichmäßige Dichteverteilung Dichte im unteren Bereich höher
+A B C
+PAGE 6
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+einseitige Verdichtung
+Einseitiges Pressen
+FR FR
+F
+einseitige Verdichtung
+Reibung an der Wand
+➔ Verkanten der Körner
+FR
+F
+A: Dichte im oberen Bereich höher
+
+PAGE 7
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Zweiseitige Verdichtung
+Zweiseitiges Pressen
+[Reinfried, 1975] 
+Zweiseitige Verdichtung
+PAGE 8
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+Angetriebene Matrize
+Zweiseitiges Pressen
+Angetriebene Matrize
+PAGE 9
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Schwimmend gelagerte Matrize
+Zweiseitiges Pressen
+schwimmend gelagerte Matritze
+PAGE 10
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Beispiele für das koaxiale Pressen
+Zweiseitiges Pressen
+
+PAGE 11
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+Sinterformteile mit unterschiedlichen Querschnitten 
+Formgebung
+erforderliche
+Pulversäule
+Formling
+vorgehobener
+Stempel
+Füllstellung des
+Werkzeuges
+Endstellung
+PAGE 12
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+Hybridpresse
+Formgebung
+
+PAGE 13
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  13
+Isostatisches Pressen
+Formgebung
+oberer Verschluss
+Hochdruckgefäß
+Druckübertragungsmedium
+Pressmantel
+Pulverfüllung
+perforierter Korb
+unterer Verschluss
+Hochdruckzuführung
+Druckmittelablass
+[Ortech]
+PAGE 14
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  14
+Werkzeugsatz zum isostatischen Pressen Isostatisch gepresste Gewindebüchsen
+Formgebung
+PAGE 15
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  15
+Stahl
+
+ 
+E-Modul: 𝐸 =
+∆𝜎
+∆𝜖
+Zugfestigkeit Rm
+Bruchdehnung A
+Spannung 
+ = F 
+A0 
+Spannung
+ = l1−l0 
+l0
+∙ 100%
+Dehnung
+Wiederholung: Werkstoffeigenschaften
+PAGE 16
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  16
+Formgebung
+B = Zugfestigkeit
+A  = Bruchdehnung
+Werkstoffeigenschaften
+Konventionelles
+Sintern
+Mehrfachpressen
+und -sintern
+Pulver-
+schmieden
+a1 a2
+a b
+l0l1
+A0
+A1
+F1
+F2
+PAGE 17
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  17
+Antrieb
+Abtrieb
+Man
+Mab
+Biege-Wechselbeanspruchung bei einer Zahnradpaarung
+Formgebung
+PAGE 18
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  18
+Antrieb
+Abtrieb
+Man
+Mab
+Biegebeanspruchung am Zahnfuß ändert sich 
+aufgrund des kleiner werdenden Hebelarms
+F
+σb
+F
+σb
+Zug
+Druck
+F
+F
+Biege-Wechselbeanspruchung bei einer Zahnradpaarung
+Formgebung
+PAGE 19
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  19
+Biege-Wechselbeanspruchung bei einer Zahnradpaarung
+Formgebung
+Antrieb
+Abtrieb
+Man
+Mab
+Lastumkehr
+(z.B. Wechsel in Schubbetrieb beim Pkw)
+PAGE 20
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  20
+Abtri
+eb
+Biegewechselbeanspruchung
+Biege-Wechselbeanspruchung bei einer Zahnradpaarung
+Formgebung
+Antrieb
+Abtrieb
+Man
+Mab
+Lastumkehr
+(z.B. Wechsel in Schubbetrieb beim Pkw)
+Zug- und Druckseite sind vertauscht 
+PAGE 21
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  21
+Antrieb
+Abtrieb
+Man
+Mab
+F
+F
+σb
+F F
+σb
+ZugDruck
+Biege-Wechselbeanspruchung bei einer Zahnradpaarung
+Formgebung
+PAGE 22
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  22
+Formgebung
+Werkstoffeigenschaften
+Konventionelles
+Sintern
+Mehrfachpressen
+und -sintern
+Pulver-
+schmieden
+a1 a2
+a b
+BW  = Biege-Wechselfestigkeit
+1F
+2F
+PAGE 23
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  23
+Kerbschlagversuch nach DIN EN ISO 148-1
+Formgebung
+Kerbschlagprobe
+)h(hFA 21GV −=
+vA
+GF
+1h
+2h
+Kerbschlagarbeit
+Gewichtkraft des Hammers
+Fallhöhe
+Steighöhe
+0
+Vk A
+Aa =
+0A
+Nennquerschnitt im 
+Kerbgrund
+[ikff stuttgart]
+PAGE 24
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  24
+Sprödbruch
+Interkristalliner Bruch – Sprödbruch
+ Rissbildung/ Bruch entlang der Korngrenzen
+Korn
+Rissebene
+REM: 700 x; [HAW Hamburg, IWS]
+ [www.dgm.de]
+[www.slv-muenchen.de]
+Interkristalliner Riss
+Bruch eines austenitischen Stahls 
+100 µm
+Interkristalline Rissinitiierung in 
+einer β-Titanlegierung
+PAGE 25
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  25
+Formgebung
+aK  = Kerbschlagzähigkeit
+Werkstoffeigenschaften
+Konventionelles
+Sintern
+Mehrfachpressen
+und -sintern
+Pulver-
+schmieden
+a1 a2
+a b
+PAGE 26
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  26
+Formgebung
+σB   = Zugfestigkeit
+σBW = Biege-Wechselfestigkeit
+A     = Bruchdehnung
+aK    = Kerbschlagzähigkeit
+Werkstoffeigenschaften
+Konventionelles
+Sintern
+Mehrfachpressen
+und -sintern
+Pulver-
+schmieden
+a1 a2
+a b
+PAGE 27
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  27
+[Klocke, 2015]  Klocke, F., Fertigungsverfahren 5 Gießen, Pulvermetallurgie, Additive Manufacturing, Springer-Verlag Berlin Heidelberg 2015
+[Reinfried, 1975] Reinfried, N., Modifizierung der Werkstoffe auf Basis von Magnesiumsilicid mit Hilfe der Spark-Plasma-Synthese,  
+  Dissertation TU Dresden, 1975, https://docplayer.org/56865485-Modifizierung-der-werkstoffe-auf-basis-von-magnesiumsilicid.html, 28.08.2023
+[Ortech]  http://www.keramverband.de/brevier_dt/4/1/4_1_3.htm abterufen 12.10.2023
+[ikf stuttgart] https://www.ikff.uni-stuttgart.de/dokumente/veroeffentlichungen/imp_mainz01.pdf, abgerufen 12.10.2023
+[HAW Hamburg, IWS]   
+[www.slv-muenchen.de]   
+[www.dgm.de]
+  
+Ende 3. Teil „Urformen - Pulvermetallurgie“

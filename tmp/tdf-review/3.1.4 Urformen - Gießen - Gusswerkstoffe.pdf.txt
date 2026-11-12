@@ -1,0 +1,260 @@
+PAGE 1
+9. Juni 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Verfahrensablauf
+2. Erstarrung und Kristallisation
+3. Konstruktive Gestaltung von Gussteilen
+4. Gusswerkstoffe
+5. Eisenwerkstoffe
+6. Gießen in verlorene Formen aus Dauermodellen
+7. Gießen in verlorene Formen aus verlorenen Modellen
+8. Gießen in Dauerformen
+9. Halbzeugguss
+PAGE 2
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Gusswerkstoffe
+(casting materials)
+Eisenwerkstoffe
+(ferrous materials)
+Nichteisenwerkstoffe
+(nonferrous materials)
+Reineisen
+C<0,1%
+(technical pure
+ iron)
+Stahl
+0,1%<C<2%
+(steel)
+Gusseisen
+2%<C<4,5%
+(cast iron)
+Kupfer
+(copper)
+Aluminium
+(aluminum)
+Magnesium,
+(magnesium)
+Gusswerkstoffe
+Sonstige:
+Titan, Zinn,
+Nickel
+(titanium, tin,
+nickel)
+PAGE 3
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+Gusswerkstoffe
+(casting materials)
+Eisenwerkstoffe
+(ferrous materials)
+Nichteisenwerkstoffe
+(nonferrous materials)
+Reineisen
+C<0,1%
+(technical pure
+ iron)
+Stahl
+0,1%<C<2%
+(steel)
+Gusseisen
+2%<C<4,5%
+(cast iron)
+Kupfer
+(copper)
+Aluminium
+(aluminum)
+Magnesium,
+(magnesium)
+Gusswerkstoffe
+Sonstige:
+Titan, Zinn,
+Nickel
+(titanium, tin,
+nickel)
+PAGE 4
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Kupfer
+Nichteisenwerkstoffe
+Einsatzgebiete Besondere Eigenschaften
+• Elektroindustrie (Leitfähigkeit)
+• Apparatebau
+• Kesselanlagen
+• ausgezeichnete Wärmeleitfähigkeit und elektrische 
+Leitfähigkeit
+• plastische Verformbarkeit, widerstandsfähig gegen 
+Luftfeuchtigkeit, Heißwasser und Säuren
+Kupferkabel Brauereikessel
+[www.fluid.de][www.bauabenteuer.de] 
+PAGE 5
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Kupfer
+Nichteisenwerkstoffe
+Einsatzgebiete Besondere Eigenschaften
+• Elektroindustrie (Leitfähigkeit)
+• Apparatebau
+• Kesselanlagen
+• ausgezeichnete Wärmeleitfähigkeit und elektrische 
+Leitfähigkeit
+• plastische Verformbarkeit, widerstandsfähig gegen 
+Luftfeuchtigkeit, Heißwasser und Säuren
+Legierungen
+Messing
+Pb ≤ 3 % (erhöht Zerspanbarkeit)
+Cu ≥ 50 %
+Zn ≤ 45 %
+Gefüge
+[http://www.wikipedia.de]
+Bronze
+Pb, Zn, Al, Si: Sonderbronzen
+Cu ≥ 60 %
+Sn = 9-22 %
+Gefüge
+[http://www.gmr2.de]
+• hohe Festigkeit 
+• hohe Härte
+• Festigkeit < Bronze
+• Härte < Bronze
+PAGE 6
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+Aluminium
+Nichteisenwerkstoffe
+Einsatzgebiete
+gegossene und umgeformte Bauteile (Automobil- / Flugzeugbau)
+Besondere Eigenschaften
+• Herstellung sehr energieintensiv
+• geringe Dichte, gute Wärmeleitfähigkeit/ elektrische Leitfähigkeit
+• gute Verformbarkeit, Korrosionsbeständig gegenüber 
+Witterungseinflüssen
+Druckguss: Gehäuse für 
+elektrische Antriebe
+[www.laukoetter.com] 
+Knetlegierungen Gusslegierungen
+Legierungselemente Cu, Mg, Mn, Zn, Ni Si, Mg
+Eigenschaften • Teilweise aushärtbar durch 
+Ausscheidungsbildung (z.B. AlMgSi)
+• Hohe Festigkeit (höchste Festigkeit: 
+AlZnMgCu)
+• Hohe Duktilität (gut umformbar)
+• Gute Gießeigenschaften (sehr gut bei eutek. 
+Zusammensetzung ~12 % Si)
+• Gute Warmfestigkeit & Korrosionbeständigkeit durch 
+Mg
+• Hohe Festigkeit
+• Gut schweißbar
+PAGE 7
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Magnesium
+Nichteisenwerkstoffe
+Einsatzgebiete
+gegossene Bauteile im Verkehrswesen (Automobil/Flugzeug)
+> Leichtbau als wichtigstes Kriterium!
+Besondere Eigenschaften
+• geringste Dichte aller Metalle
+• Elektronegativität von Magnesium macht besonderen 
+Korrosionsschutz notwendig
+Knetlegierungen Gusslegierungen
+Legierungselemente Al (< als Guss), Mn, Zn Al, Zn, Zr, Mn, seltene Erden, Y , Ag
+Eigenschaften • Aushärtbar (Al) 
+• Hohes Formänderungsvermögen (Zn)
+• Korrosionsbeständig (Mn)
+• Schlecht kaltumformbar
+• spröde
+• Hohe Festigkeit (lösungsgeglüht und abgeschreckt)
+• Feines Korngefüge (Zr)
+• Gute Warm-/Kriechfestigkeit (seltene Erden, Y , Ag)
+PKW-
+Heckklappe
+Dachrahmen 
+für Cabrio
+Korrodiertes Mg
+PAGE 8
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+Zugversuch
+
+PAGE 9
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Bruchdehnung
+Zugfestigkeit
+Cu: 200-360 
+𝑁
+𝑚𝑚²
+Al: 40-180 
+𝑁
+𝑚𝑚²
+Mg: 80-180 
+𝑁
+𝑚𝑚²
+Cu: 2…45 %
+Al: 4…50 %
+Mg: 1…12 %
+Vergleich Kupfer 
+  Aluminium 
+  Magnesium
+ = F 
+A0 
+Spannung
+e = l1−l0 
+l0
+∙ 100%
+Dehnung
+Aluminium
+Magnesium
+Kupfer
+Rp Streckgrenze
+Spannung [N/mm2]
+Bruchdehnung A
+PAGE 10
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Einfluss der Wärmebehandlung auf Aluminium
+Zugversuch von Aluminium 7075 mit 
+unterschiedlichen Wärmebehandlungszuständen
+Ergebnisse
+• Gleichbleibender E-Modul 
+(Steigung im elastischen Bereich)
+• Verschiebung der Streckgrenze
+• Veränderung der Bruchdehnung
+
+PAGE 11
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+Vergleich: Kupfer 
+  Aluminium 
+  Magnesium
+Cu St Al Gu Mg
+Dichte 8.93 7.85 2.7 7.85 1.7
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10Dichte  [g/cm³]
+Dichte
+Cu St Al Gu Mg
+Schmelztemperatur 1083 1500 660 1150 649
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+Schmelztemperatur [°C]
+Schmelztemperatur
+PAGE 12
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+[www.bauabenteuer.de] https://www.bauabenteuer.de/kabel-abisolieren/, abgerufen 28.09.2023
+[www.fluid.de] https://www.fluid.de/faszination-fluid/oelfreie-druckluft-fuer-die-forschungsbrauerei-weihenstephan-127.html, abgerufen 28.09.2023
+[htttp://wikipedia.de] https://de.wikipedia.org/wiki/Messing, abgerufen 05.10.2023
+[http://gmr2.de]  https://de.wikipedia.org/wiki/Bronze, abgerufen 05.10.2023
+[www.laukoetter.com] https://www.laukoetter.com/de/druckguss/aluminium, abgerufen 05.10.2023
+Ende 4. Teil „Urformen - Gießen“

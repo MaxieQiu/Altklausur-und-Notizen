@@ -1,0 +1,279 @@
+PAGE 1
+9. Juni 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Verfahrensablauf
+2. Erstarrung und Kristallisation
+3. Konstruktive Gestaltung von Gussteilen
+4. Gusswerkstoffe
+5. Eisenwerkstoffe
+6. Gießen in verlorene Formen aus Dauermodellen
+7. Gießen in verlorene Formen aus verlorenen Modellen
+8. Gießen in Dauerformen
+9. Halbzeugguss
+PAGE 2
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Einteilung der Gießverfahren
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+Handformen
+Maschinenformen
+Maskenformen
+Keramikformen
+Feingießen
+Vollformgießen
+Schwerkraft-
+kokillenguss
+(gravity die casting)
+PAGE 3
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+Gießen in Dauerformen
+geteilte Kokille ungeteilte Kokille
+Waagrecht geteilte Kokille
+(Bezeichnung nach Art der Schließbewegung)
+Kernzug
+Einguss
+Speiser
+Werkstück
+Formhälfte
+Form-
+hälfte
+Halterung
+für Kern
+Kern
+ungeteilte 
+Kokille
+PAGE 4
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Beispiel einer geteilten Kokille
+Gießen in Dauerformen
+Geteilte Kokille für die Herstellung eines Verbindungsstückes (li.), Abguss (re.)
+[HUGO ARENS GmbH & Co. KG ] [Silesia-Tech]
+PAGE 5
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Beispiel einer Gemischtkokille
+Gießen in Dauerformen
+Speiser EingussMetallkern
+Sandkern
+PAGE 6
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+Einteilung der Gießverfahren
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+Handformen
+Maschinenformen
+Maskenformen
+Keramikformen
+Feingießen
+Vollformgießen
+Schwerkraft-
+kokillenguss
+Niederdruckguss
+(low pressure die 
+casting)
+PAGE 7
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Gießverfahren
+Niederdruckguss
+Niederdruckguss Niederdruckkokille für Pkw-Felge
+1. Oberform
+2. Werkstück
+3. Unterform
+4. Deckel
+5. Druckluft
+6. Schmelze
+7. Steigrohr
+8. Ofen
+Oberform
+Unterform
+Schmelze mit Überdruck
+(0,2 bis 0,4 bar)
+Dichtung
+Schmelze vom Gießofen
+Felge χ
+χχ
+χ
+Losteil Losteil
+
+PAGE 8
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+Einteilung der Gießverfahren
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+Handformen
+Maschinenformen
+Maskenformen
+Keramikformen
+Feingießen
+Vollformgießen
+Schwerkraft-
+kokillenguss
+Niederdruckguss
+Druckguss
+(pressure die casting)
+PAGE 9
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Gießen in Dauerformen
+Kaltkammer Warmkammer
+Druckkolben
+Schmelzebewegliche 
+Formhälfte
+feste
+Formhälfte
+Gegenkolben
+bewegliche 
+Formhälfte
+Hydraulik-
+antrieb
+feste
+Formhälfte
+PAGE 10
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Gießen in Dauerformen
+Warmkammergießmaschine
+[Kalpakjian]
+PAGE 11
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+Gießen in Dauerformen
+Druckgussform für einen 
+V12-Zylinderblock
+Fertiger 
+V12-Zylinderblock
+
+PAGE 12
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+Gießen in Dauerformen
+Druckgussberechnung am Beispiel eines Getriebegehäuses
+[ Müller Weingarten]
+PAGE 13
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  13
+Druckgussberechnung am Beispiel eines Getriebegehäuses
+Gießen in Dauerformen
+Verriegelungs-
+keil für 
+Kernzug
+Schieber
+KurvenstückVerlängerung
+Schrägstift
+EingussseiteAuswerferseite [Müller Weingarten]
+PAGE 14
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  14
+Druckgussberechnung am Beispiel eines Getriebegehäuses
+Gießen in Dauerformen
+Projizierte Flächen des Gussteils in 
+Schließrichtung der Maschine
+A1   = 36,5 cm x 31 cm = 1132 cm²
+A2   = π (7 cm)²  = 150 cm²
+A3   = 4 cm x 4 cm  = 20 cm²
+A4   = 18 cm x 4 cm  = 72 cm²
+A5*) = (34,5 cm)² x 0,785 = 935 cm²
+           16 cm x 22 cm   = 352 cm²
+A6   = 36 cm x 3 cm = 108 cm²
+*) projizierte Flächen der von der Seite einfahrenden
+    Kernzüge werden über die Keilverriegelung mit ca.
+    10% in Schließrichtung der Maschine wirksam
+∑ A1 + A2 + A3 + A4 + A6     = 1482 cm²
+A5 x 10% = 1287 cm² x 10% = 129 cm²
+Atotal = 1611 cm²
+Gießdruck
+p = 750 bar = 7500 N/cm²
+A1 = Getriebegehäuse      A4 = Überläufe
+A2 = Anguss                      A5 = Kernzugschieber
+A3 = Gießrinne 1               A6 = Gießrinne 2
+Schließkraft
+F =        p          x     Atotal
+F = 7500 N/cm² x 1611 cm² = 12083 kN
+F ≅ 1232 t
+[Müller-Weingarten]
+2A
+3A
+6A
+1A
+4A
+5.1A
+5.2A
+approx. 3000
+PAGE 15
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  15
+Konsole Motorsägengehäuse Kühlkörper Zündschlossgehäuse
+Mg, Al Al, Mg Al Al, Mg
+Beispiele für Leichtmetall-Druckguss
+Gießen in Dauerformen
+[power-cast.com]
+PAGE 16
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  16
+Einteilung der Gießverfahren
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+Handformen
+Maschinenformen
+Maskenformen
+Keramikformen
+Feingießen
+Vollformgießen
+Schwerkraft-
+kokillenguss
+Niederdruckguss
+Druckguss
+Schleuderguss
+(spin casting)
+PAGE 17
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  17
+Schleuderguss
+Gießen in Dauerformen
+Vertikales Schleudergießen Horizontales Schleudergießen
+Zylinderlaufbuchse
+mit Sand ausge-
+kleidete Drehform
+Ventildichtringe
+PAGE 18
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  18
+Schleuderguss
+Gießen in Dauerformen
+Verbundschleuderguss
+• Verbundschleuderguss ermöglicht die Kombination unterschiedlicher Materialien für Walzenmantel und 
+Walzenkern
+• Beispiel: Herstellung von Umformwalzen   
+1. Schritt
+Gießen des Walzenmantels
+2. Schritt
+Gießen des Walzenkerns
+
+PAGE 19
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  19
+[HUGO ARENS GmbH & Co. KG] https://opendata.uni-halle.de/bitstream/1981185920/12490/1/Bachelorarbeit%20Marcel%20Weikert.pdf, abgerufen 05.10.2023, 
+ http://www.hugo-arens.de/aluguss/kokillenguss.php, abgerufen 01.08.2014
+[Silesia-Tech]   https://fundicionaluminioyzamak.com/, abgerufen 05.10.2023
+[Kalpakjian]  https://www.sipaitech.com/die-casting/, abgerufen 05.10.2023
+[Müller Weingarten]
+[power-cast.com] https://www.power-cast.com/anwendungsbeispiele.html, abgerufen 28.08.2023
+[Gontermann-Peipers]  https://www.gontermann-peipers.de/fileadmin//user_upload/jubilaeum_deutsch.pdf
+Ende 8. Teil „Urformen - Gießen“

@@ -1,0 +1,471 @@
+PAGE 1
+9. Juni 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Verfahrensablauf
+2. Erstarrung und Kristallisation
+3. Konstruktive Gestaltung von Gussteilen
+4. Gusswerkstoffe
+5. Eisenwerkstoffe
+6. Gießen in verlorene Formen aus Dauermodellen
+7. Gießen in verlorene Formen aus verlorenen Modellen
+8. Gießen in Dauerformen
+9. Halbzeugguss
+PAGE 2
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Gießen in verlorene Formen aus Dauermodellen
+Gießverfahren
+(casting process)
+Formguss
+(finished casting)
+Halbzeugguss
+(casting of semi-finished
+ components)
+Verlorene Formen
+aus Dauermodellen
+(break-moulds made 
+from permanent
+ pattern)
+Verlorene Formen
+aus verlorenen
+Modellen
+(break-moulds made 
+from lost pattern)
+Dauerformen
+(permanent moulds)
+Strangguss
+(continuous casting)
+PAGE 3
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+Einformen eines Modells
+Gießen in verlorene Formen aus Dauermodellen
+Bereitstellung 
+Gussmodell 
+und Kerne
+Formsand 
+einfüllen und 
+verdichten
+Gießbereite 
+Form
+Rohes Gussteil 
+nach Erstarrung 
+und Entformen
+kg kg
+PAGE 4
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Formstoffe für verlorene Gießformen
+Gießen in verlorene Formen aus Dauermodellen
+Formgrundstoffe + Formstoffbindemittel + Formstoffzusatz = Formstoff
+• Quarzsand
+• Schamotte
+Silikate:
+Kunstharze:
+Sonstige:
+• Tone
+• Zement
+• Wasserglas
+• Phenolharze
+• Furanharz
+• Kohlenhydrate
+• Öle
+• Kohlenstaub
+• Eisenoxid
+• Torfmehl
+• Holzmehl
+• Glykol
+• Borsäure
+• Schwefel
+• Kornform
+• Korngröße
+• Kornverteilung
+Eigenschaften des 
+Formstoffsystems
+• Verbrauch an Bindemittel
+• Verdichtbarkeit
+• Rauheit der Gussoberfläche
+• Gasdurchlässigkeit
+• Feuerfestigkeit
+PAGE 5
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Gießen in verlorene Formen aus Dauermodellen
+Formstoffe
+für
+Formen
+Quarzsand Tonerde
+(Bindemittel) Kohlestaub Bentonit
+(Bindemittel) Wasser
+magerer Formsand 90% 5....8% - - 4%
+mittelfetter Formsand 82% 8....15% - - 7%
+fetter Formsand 75% 15....20% - - 10%
+vollsynthetischer Formsand 92% - < 4% 3...4% < 5%
+Formstoffe
+für
+Kerne
+Quarzsand Sonstiges
+Formstoff für Vollkerne 92% Bentonit 3…4% Kohlenstaub < 4%
+Formstoff für Hohlkerne
+• Croning-Verfahren 93…95% Phenolkunstharz 5…7 % Alternativ: Na-, K-Silikate
+• CO2-Erstarrungsverfahren 96% Natriumsilikat 3…5%
+PAGE 6
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+Gießen in verlorene Formen aus Dauermodellen
+Verfahren zur Form- und Kernherstellung
+mechanische 
+Verfahren
+(tongebunden)
+chemische Verfahren
+(organisch oder anorganisch gebunden)
+physikalische 
+Verfahren
+(ungebunden)
+Formstoff-
+zustand
+formgerecht,
+feucht
+formgerecht,
+feucht
+formgerecht,
+feucht und
+begast
+trocken und
+rieselfähig
+formgerecht,
+feucht
+trocken und
+rieselfähig
+Verfestigung 
+durch
+Zuführen von
+Verdichtungs-
+arbeit
+Kalthärten in
+der Form oder
+Kernbüchse
+Heißhärten in
+der Form oder
+Kernbüchse
+Magnetfeld,
+Vakuum
+Verfahren bzw. 
+verwendete
+Formstoffe
+synthetischer
+Bentonitsand,
+Natursand
+Zementsand
+Wasserglas-
+verfahren,
+Cold-Box-
+verfahren
+Croning-
+Verfahren
+Hot-Box-
+Verfahren
+Magnetform-
+Verfahren,
+Vakuumform-
+Verfahren
+PAGE 7
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Gießen in verlorene Formen aus Dauermodellen
+Form- und Kernüberzüge 
+(Schlichten)
+Um Reaktionen zwischen Form und 
+flüssigem Metall gering zu halten, 
+kann die Form mit einem feuerfesten 
+und schützenden Anstrich versehen 
+werden (Schlichten).
+Quelle: http://www.a-m.de
+ [RBM]
+Anschliff eines Kerns mit einer 
+Schlichte aus Pyrophyllit
+REM 240x vergrößert
+PAGE 8
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+Cold-Box-Verfahren: Kernschießmaschine (CO2-Erstarrungsverfahren)
+Gießen in verlorene Formen aus Dauermodellen
+Sandbunker
+Schließkopf
+Druckluft
+Drehtisch
+Magnetventil
+Schließplatte
+Kernbüchse
+Schlauch zur
+Co2-LeitungBewegung der
+Co2-Sonde
+PAGE 9
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Beispiele für Formkerne
+Gießen in verlorene Formen aus Dauermodellen
+Mehrteilige Kernkonstruktion Mehrteilige Kernkonstruktion
+[AGVS]
+[Doug Dutral]
+PAGE 10
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Sonderverfahren: 3D-Druck verlorener Formen
+Drucken der Formen und Kerne Zusammensetzen und Abguss Entformen und Nachbearbeiten
+Prozess: Schichtweiser Aufbau der 
+Formen und Kerne
+Wiederholung der Schritte:
+1) Auftragen einer Sandschicht
+2) Lokales Auftragen des Binders
+Formsand:  Quarzsand
+Binder:  Kalthärtendes Furanharz
+Fertigungszeit: Wenige Stunden bis einige Tage
+Anwendung: Prototypenbau bis Kleinserie
+[voxeljet AG] [voxeljet AG] [voxeljet AG]
+PAGE 11
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+Gießen in verlorene Formen aus Dauermodellen
+Trockenguss Nassguss
+• Herstellung der Form mit Trocknung
+• Formstoff: fetter Formsand mit hohem 
+Bindemittel- und Wasseranteil
+• Formen mit größerer Formstabilität und 
+Feuerfestigkeit (Wasserentzug durch 
+Trocknung)
+• Herstellung der Form ohne Trocknung
+• Formstoff: magerer Formsand und hoher 
+Wasseranteil
+• Wichtigstes Verfahren bei der Herstellung mit 
+verlorenen Formen
+Gewicht 
+[kg]
+1-100
+1000
+10.000
+Wanddicke 
+[mm]
+< 1
+100
+> 300
+Stückzahl 
+[-]
+1-100
+1.000
+> 10.000
+PAGE 12
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+Gießen in verlorene Formen aus Dauermodellen
+Verfahrensart Gießen in verlorene Formen aus Dauermodellen
+Verfahren Handformen Maschinenformen Maskenformen Keramikformen
+Gewichtsbereich*
+Keine Beschränkung, 
+begrenzt durch 
+Transporteinrichtung
+Bis zu mehreren t, 
+begrenzt durch Größe 
+der Maschinenanlage
+Bis 150 kg Bis 1000 kg
+Mengenbereich* Einzelteile, kleine 
+Serien
+Kleine bis große 
+Serien
+Mittlere und große 
+Serien
+Einzelteile, kleine bis 
+mittlere Serien
+Toleranzbereich 
+für 500 mm 
+Nennmaß*
+2,5 bis 5 % 1,5 bis 3 % 1 bis 2 % 0,3 bis 0,8 %
+Typisches Bauteil Pumpengehäuse Kolbenringe Rippenzylinderkopf Hüftgelenkprothese
+*ca.-Werte
+PAGE 13
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  13
+Handformen
+Gießen in verlorene Formen aus Dauermodellen
+Form für eine Seilscheibe 
+ Pumpengehäuse
+
+PAGE 14
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  14
+Maschinenformen
+Gießen in verlorene Formen aus Dauermodellen
+Pressmaschine für Sandformen 
+Gehäuse für Spiralpumpen
+
+PAGE 15
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  15
+Maskenformen
+Gießen in verlorene Formen aus Dauermodellen
+Abguss in Maskenformen
+ Keilschieber
+[Gießerei Chur]
+
+PAGE 16
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  16
+Gießen in verlorene Formen aus Dauermodellen
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Handformen
+(hand moulding)
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+Schablonenformguss
+(template moulding)
+Herdguss
+(open moulding)
+Kastenformguss
+(flask moulding)
+PAGE 17
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  17
+Herdguss (open moulding)
+Gießen in verlorene Formen aus Dauermodellen
+[TU Dresden]
+Ornament
+
+PAGE 18
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  18
+Kastenformguss (flask moulding)
+Gießen in verlorene Formen aus Dauermodellen
+Gestellwand
+
+PAGE 19
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  19
+Schablonenformguss (template moulding)
+Gießen in verlorene Formen aus Dauermodellen
+[TU Dresden]
+Schlackenpfanne
+
+PAGE 20
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  20
+Aluminium-Sandguss
+Gießen in verlorene Formen aus Dauermodellen
+
+PAGE 21
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  21
+Formtechnische Grundbegriffe
+Gießen in verlorene Formen aus Dauermodellen
+Eingusskanal
+(früher: 
+Zuströmkanal)
+Schlackenlauf
+Luftpfeifen
+Innenform
+Kühlelemente
+Speiser
+(geschlossen)
+(früher Steiger)
+Formhohlraum Hornauslauf
+Speiser (offen)
+(früher Steiger) Eingusstümpel
+Formteilebene
+Formteilebene
+Eingusstrichter
+PAGE 22
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  22
+Gießen in verlorene Formen aus Dauermodellen
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+Endlosformverfahren
+(continuous moulding process)
+Maschinenformen mit Kasten 
+(mechanical moulding with box)
+Maschinenformen ohne Kasten
+(boxless moulding)
+Handformen
+Maschinenformen
+(mechanical moulding)
+PAGE 23
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  23
+Maschinenformen mit Kasten
+Gießen in verlorene Formen aus Dauermodellen
+1. Verdichten 
+im Unterkasten
+2. Verdichten 
+im Oberkasten
+3. Beschweren 4. Gießen
+SpannrahmenModellplatte
+Unterkasten
+Rollgang
+Unterkasten
+SpannrahmenModellplatte
+Oberkasten
+Unterkasten
+Oberkasten
+kg kg
+Beschwereisen
+kg kg
+PAGE 24
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  24
+Maschinenformen ohne Kasten
+Gießen in verlorene Formen aus Dauermodellen
+Transportplatte für den Formstoffstrang
+Ballen mit Eingusstrichter
+Formteilung
+Kern
+PAGE 25
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  25
+Gießen in verlorene Formen aus Dauermodellen
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+Handformen
+Maschinenformen
+Maskenformen
+(shell mould casting)
+PAGE 26
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  26
+Sandgussform mit Vollkern Formmaske mit Hohlkern
+Vergleich Sandgussform - Formmaske
+Gießen in verlorene Formen aus Dauermodellen
+
+PAGE 27
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  27
+1. 250 °C heiße 
+Metallmodelleinrichtung 
+2. angebackene 
+Maskenform
+3. Abkippen des 
+überschüssigen Formstoffs
+Herstellung einer Formmaske
+Gießen in verlorene Formen aus Dauermodellen
+Formstoff
+4. Aushärten 
+der Formmaske
+5. Abhebe-vorrichtung 6. Klebepresse 7. Abguss der Maske 
+auf Gießbett
+450°C
+PAGE 28
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  28
+Gießen in verlorene Formen aus Dauermodellen
+[Foseco]
+Eckbeschläge für 
+Frachtcontainer
+Differential-
+getriebekäfig
+Gießen von Kurbelwellen in stehenden Maskenformen 
+(Computermodell)
+
+PAGE 29
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  29
+[http://www.a-m.de]   
+[RBM] https://giessereitechnik-rbm.de/images/products/Ausruestungen_zum_Schlichten/img21-1.jpg, aufgerufen 22.10.2024
+[AGVS]  https://www.agvs.de/files/agvs/Bildgalerie%20Kernmacherei/05.jpg, abgerufen 22.10.2024
+[Doug Dutral] https://www.dutra.org/doug/doug-sl6-exhaust/doug's-sl6-exhaust.htm, abgerufen 05.10.2023
+[voxeljet AG] https://www.boersengefluester.de/voxeljet-gibt-auch-gute-nachrichten/, https://www.voxeljet.de/additive-fertigung/case-studies/kunst-und-design/3d-druck-
+  fuer-produktdesigner-und-innenarchitekten/, abgerufen 05.10.2023
+[Gießerei Chur] https://www.giesserei-chur.ch/giesserei-verfahren/croning/, abgerufen 22.10.2024
+[TU Dresden]    
+Ende 6. Teil „Urformen - Gießen“

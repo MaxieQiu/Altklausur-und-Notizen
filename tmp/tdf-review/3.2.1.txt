@@ -1,0 +1,218 @@
+PAGE 1
+9. Juni 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Sintern
+2. Pulverherstellung
+3. Eigenschaften von Sinterbauteilen
+4. Verfahrensschritte
+5. Klassen von Sinterbauteilen
+3.2 Pulvermetallurgie
+3.3 Additive Fertigung
+PAGE 2
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Einteilung der Urformverfahren
+Pulvermetallurgie
+Urformen
+aus dem gas- oder 
+dampfförmigen
+Zustand
+aus dem flüssigen,
+breiigen oder
+pastenförmigen
+Zustand
+aus dem ionisierten
+Zustand durch 
+elektrolytisches
+Abscheiden
+aus dem
+festen, körnigen
+oder pulvrigen
+Zustand
+keine technische
+Bedeutung
+Gruppe der
+Gießverfahren,
+große technische
+Bedeutung
+Galvanoplastik,
+Sonderverfahren,
+hochreine Werkstoffe
+Gruppe der
+Sinterverfahren,
+große technische
+Bedeutung
+PAGE 3
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+Pulvermetallurgie
+Definition der Fertigung
+Wandlung eines Rohzustandes in einen Fertigzustand, wobei die Überführung der Rohform über 
+Zwischenformen zur Fertigform in einer möglichst geringen Anzahl von Zwischenformen erfolgen soll!
+Definition des Urformens (DIN 8580)
+Urformen ist das Fertigen eines festen Körpers aus formlosem Stoff durch Schaffen des Zusammenhalts!
+Definition der Pulvermetallurgie (DIN EN ISO 3252)
+„Die Pulvermetallurgie ist ein Zweig der Metallurgie, der sich mit der Herstellung metallischer Pulver oder 
+der Herstellung von Teilen, die aus solchen Pulvern mit oder ohne Zusätze nichtmetallischer Pulver durch 
+Formen und Sintern erzeugt werden, beschäftigt.“
+PAGE 4
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Fertigungsablauf
+Pulvermetallurgie
+Mischen Schmieden
+Gleitmittel: 
+Graphit
+Pulver:
+Bronze
+Eisen
+Legierungsmittel
+Gleitmittel 
+ausbrennen Sintern Abkühlen
+Nachbehandlung
+Füllen Pressen Freilegen Kalibrieren
+
+PAGE 5
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Kalibrieren Schmieden Nachbehandlung
+Fertigungsablauf
+Pulvermetallurgie
+Mischen Pressen Sintern
+
+PAGE 6
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+Pulvermetallurgie
+Sintern
+Sintern ist ein Prozess, bei dem sich ein Haufwerk von Teilchen, 
+gepresst oder lediglich in einem Behälter eingeschlossen, unter 
+dem Einfluss erhöhter Temperaturen chemisch zu einem 
+zusammenhängenden Körper verbindet.
+
+PAGE 7
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Glühbirnen
+Geschichte der Pulvermetallurgie
+Glühfaden
+Halterung
+Glas-
+kolben
+[www.gluehbirne.de]
+Heute vor allem:
+Verbundwerkstoffe, komplexe Produktgeometrien, poröse Produkte 
+1846 erste Glühbirne mit einem Glühfaden aus Kohlefaden
+Seit 1907 Wolfram als Glühfaden für bessere Lichtausbeute
+Schmelztemperatur Wolfram: ca. 3420 °C 
+(höchste Schmelztemperatur aller Metalle)
+Schmelzeinrichtungen 
+nicht verfügbar 
+Stimulation der 
+Pulvermetallurgie
+PAGE 8
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+konventionell pulvermetallurg.+HIP
+Gefüge 1.3344 (Schnellarbeitsstahl) 
+Fräskopf
+Auswirkung des Gefüges auf eine Schneidkante
+Preisvergleich von 1.2379 
+(12%-igem-Cr Kaltarbeitsstahl)
+konventionell 1:6 pulvermetallurg.
+Sintermetalle
+Werkstoffe
+• Sinterstähle
+• Hartmetalle (WC-Co, Cermets)
+• Hochtemperaturwerkstoffe 
+• (Ni-base-superalloys)
+• Weichmagnetische Werkstoffe
+• Hartmagnetische Werkstoffe
+Eigenschaften Sinterstahl
+• Extrem hoher Verschleißwiderstand 
+• Hohe Druckfestigkeit 
+• Hohe Zähigkeit bei hoher Härte
+• Hohe Korrosionsbeständigkeit 
+• Einfache Hochglanzpolierbarkeit 
+• Beste Schleifbarkeit
+[www.saar-hartmetall.de]
+[http://www.lmt-tools.com]
+[www.zapp.com]
+
+PAGE 9
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Pulvermetallurgische Produkte
+Pulvermetallurgie
+Büromaschinenbauelemente Stoßdämpferteile Türschlossbeschläge
+Filter für chemische
+Industrie, Kraftwerke,
+Nahrungsmittelindustrie,
+Schalldämpfer
+Lager,
+selbstschmierende
+Gleitlager
+Zahnräder für Auto-
+mobilindustrie, Kom-
+pressor- und Hydrau-
+likanwendungen
+Gewindebuchsen
+[GKN]
+[ames-sintering]
+[broncesval.com]
+PAGE 10
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Pulvermetallurgie
+Sinterverfahren
+• Festphasensintern (ohne Schmelzanteil)
+• Flüssigphasensintern (mit Schmelzanteil)
+• Reaktionssintern (Bildung einer Reaktionsphase)
+Gefüge nach dem …
+
+PAGE 11
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+mit Zentrumsannäherung
+(Festphasensintern)
+Teilchen sind
+verbunden
+Halsbildung
+durch Adhäsion
+und Diffusion
+Zweiteilchenmodell des Sintervorgangs
+Ausgangs-
+zustand
+Pulvermetallurgie
+PAGE 12
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+Pulvermetallurgie
+Flüssige Phase
+Partikel
+[Journal of Material Science]
+flüssige
+Phase
+Porosität
+ohne Zentrumsannäherung
+(Flüssigphasensintern)
+Teilchen sind
+verbunden
+Halsbildung
+durch Adhäsion
+und Diffusion
+Zweiteilchenmodell des Sintervorgangs
+Ausgangs-
+zustand
+PAGE 13
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  13
+Pulvermetallurgie
+Metallschaum
+[Gastec Technology, m-pore]
+Gesintert
+≠
+PAGE 14
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  14
+[www.gluehbirne.de] https://www.gluehbirne.de/1-x-Gluehbirne-60W-E27-klar-Gluehlampe-60-Watt-Gluehbirnen-Gluehlampen, abgerufen 28.09.2023
+[www.saar-hartmetall.de]  
+[www.zapp.com] https://www.uddeholm.com/app/uploads/sites/48/2017/09/Dlaczego_Sleipner_U.pdf, abgerufen 06.10.2023
+[ames-sintering] https://ames-sintering.com/de/gesinterte-zahnraeder-2/, abgerufen 28.08.2023
+[broncesval.com] https://www.broncesval.com/de/bronze/filter-und-gesinterte-porose-metallische-komponenten-amespore/, abgerufen 28.08.2023
+[GKN]    
+[Gastec Technology, m-pore] http://www.xs4all.nl/~flscholt/Images/Schuim.jpg
+  http://www.xs4all.nl/~flscholt/Images/Sinter.jpg
+Ende 1. Teil „Urformen - Pulvermetallurgie“

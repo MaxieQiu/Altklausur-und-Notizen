@@ -1,0 +1,197 @@
+PAGE 1
+9. Juni 2026 |  Institut für Produktionstechnik und Umformmaschinen  |  1
+Technologie der Fertigungsverfahren
+1 Einführung in die Fertigungstechnik
+2 Fabrikbetrieb
+3 Urformen
+4 Umformen
+3.1 Gießen
+1. Verfahrensablauf
+2. Erstarrung und Kristallisation
+3. Konstruktive Gestaltung von Gussteilen
+4. Gusswerkstoffe
+5. Eisenwerkstoffe
+6. Gießen in verlorene Formen aus Dauermodellen
+7. Gießen in verlorene Formen aus verlorenen Modellen
+8. Gießen in Dauerformen
+9. Halbzeugguss
+PAGE 2
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  2
+Einteilung der Gießverfahren
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+Handformen
+Maschinenformen
+Maskenformen
+Keramikformen
+Feingießen
+(investment casting)
+PAGE 3
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  3
+1. Gießen der 
+Wachsmodelle
+2. Zusammen-
+setzen der Modelle
+3. Tauchen in 
+Keramik
+4. Besanden
+Feingießen - Wachsausschmelzverfahren (schematisch)
+Gießen in verlorene Formen aus verlorenen Modellen
+5. Hinterfüllen 6. Ausschmelzen 7. Gießen 8. Trennen
+
+PAGE 4
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  4
+Brennen der hoh-
+len Keramikform
+Abguss Entfernen der
+Keramikschale
+Trennen der 
+Gussteile von 
+der Traube
+letzter Schliff
+[Bürstlein]
+Feingießen - Wachsausschmelzverfahren in der Produktion
+Gießen in verlorene Formen aus verlorenen Modellen
+Herstellung der 
+Wachsmodelle
+Montage der 
+Traube
+Aufbau der 
+Keramikschale
+fertige 
+Keramikschale
+Ausschmelzen 
+des Wachses
+
+PAGE 5
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  5
+Feingießen
+Gießen in verlorene Formen aus verlorenen Modellen
+fertige Gießtraube Abguss
+PAGE 6
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  6
+Feingießen – Beispiel Flugzeugturbine
+Gießen in verlorene Formen aus verlorenen Modellen
+[Rolls Royce]
+Flugzeugtriebwerk
+Turbinenschaufel
+mit komplexer 
+Geometrie
+der Kühlkanäle
+Keramikkern 
+mit 
+Wachsmodell
+Gießtraube
+(4 Schaufeln)
+Kerne nicht
+sichtbar
+Wachsmodell
+PAGE 7
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  7
+Feingießen – Beispiel Medizintechnik
+Gießen in verlorene Formen aus verlorenen Modellen
+Hüftprothese
+[linkorthopaedics.com]
+Knieprothese 
+[linkorthopaedics.com]
+Gegossene Rohlinge
+
+PAGE 8
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  8
+Einteilung der Gießverfahren
+Gießverfahren
+Formguss Halbzeugguss
+Verlorene Formen
+aus Dauermodellen
+Verlorene Formen
+aus verlorenen
+Modellen
+Dauerformen Strangguss
+Handformen
+Maschinenformen
+Maskenformen
+Keramikformen
+Feingießen
+Vollformgießen
+(cavityless casting)
+PAGE 9
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  9
+Vergleich Hohl- und Vollformgießen
+Gießen in verlorene Formen aus verlorenen Modellen
+Hohlform Vollform
+[E. Hering]
+Oberkasten
+Einguss
+obere
+Modellhälfte
+Unterkasten
+Rohgussteil
+Kern
+untere Modell-
+hälfte
+Speiser
+1. Schmelze
+2. Schaumstoffmodell
+3. freigesetztes Gas
+4. Formsand
+5. Form
+PAGE 10
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  10
+Vollformgießen – typische Werkstücke
+Gießen in verlorene Formen aus verlorenen Modellen
+Modell mit Kernen Gussstück
+PAGE 11
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  11
+Gießen in verlorene Formen aus verlorenen Modellen
+Verfahrensart Gießen in verlorene Formen aus verlorenen Modellen
+Verfahren Feingießen Vollformgießen
+Gewichtsbereich*
+bis zu mehreren kg,
+in Sonderfällen bis 100 kg
+keine Beschränkung, begrenzt durch 
+Transportgewicht /-größe, besonders geeignet für 
+schwere Teile
+Mengenbereich* kleine bis große Serien Einzelteile, bei geeigneten Teilen Serienfertigung 
+(kleine Serien)
+Toleranzbereich 
+für 500 mm 
+Nennmaß*
+0,3 bis 0,7% 3 bis 5%
+Typisches Bauteil Turbinenlaufrad Maschinenbetten
+*ca.-Werte
+PAGE 12
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  12
+Sonderverfahren: Magnetformen
+Gießen in verlorene Formen aus verlorenen Modellen
+Magnetformen (magnetic moulding)
+1. Modell in 
+magnetisches Pulver 
+einlegen 
+2. Magnetfeld zur 
+Festigung des Pulvers 
+zu einer Gussform 
+anlegen
+3. Abgießen 4. Magnetfeld 
+entfernen
+5. Bauteil aus losem 
+Pulver entnehmen
+Modell
+z.B. Polystyrol
+Magnetfeld
+Magnetisches Pulver
+PAGE 13
+9. Juni 2026  |  Institut für Produktionstechnik und Umformmaschinen  |  13
+[Bürstlein]    
+[Rolls Royce] https://www.n3eos.com/triebwerksueberholung/triebwerke/rolls-royce-trent-500, abgerufen 05.10.2023
+[linkorthopaedics.com] https://www.link-ortho.com/fileadmin/user_upload/Fuer_den_Arzt/Mediathek/DRG-Kodierleitfaden/DRG_Kodier- Leitfaden_2021_final.pdf, 
+  abgerufen 05.10.2023
+ https://archiv.gesundheitsstadt-berlin.de/nach-dem-einsetzen-von-knie-oder-hueft-prothese-schneller-wieder-mobil-12509/, abgerufen 05.10.2023
+[E. Hering]  Hering, E.; Taschenbuch für Wirtschaftsingenieure, Hanser Verlag, 2009
+ 
+Ende 7. Teil „Urformen - Gießen“
