@@ -1,6 +1,13 @@
 # 项目交接索引
 
-更新日期：2026-11-12
+更新日期：2026-11-13
+
+## 2026-11-13 最新课程入口
+
+- [TT](../../ws/tt/handoff/CURRENT.md)：GÜ03 从 Aufgabe 8(b) 接，VÜ03 1(h) 仍待求补氢量和初压。
+- [TM3](../../ws/tm3/handoff/CURRENT.md)：Übung 3 V3-3 完成，练习从 G3-1 接。
+- [PFM](../../ws/pfm/handoff/CURRENT.md)：已读课件至 2.6，教学从 2.5 接。
+- [SRT](../../ws/srt/handoff/CURRENT.md)：已盘点第4周，做题从 1.3 接。
 
 ## 2026-11-12 全科教学入口
 
